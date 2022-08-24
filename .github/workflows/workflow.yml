@@ -2,9 +2,7 @@ name: Scraper
 on:
   workflow_dispatch:
   schedule:
-   #- cron: "15 18 * * *"
-   - cron: "*/5 * * * *"
- 
+   - cron: "*/10 * * * *"
 jobs:
   scraper:
     runs-on: ubuntu-latest
@@ -66,5 +64,6 @@ jobs:
         aws-region: eu-west-1
 
     - name: Copy files to the s3 bucket
-      run:
-        aws s3 sync processed s3://${{ secrets.AWS_S3_BUCKET_NAME }}
+      run: |
+        aws s3 sync processed s3://${{ secrets.AWS_S3_BUCKET_NAME }}/processed
+        aws s3 sync raw_data s3://${{ secrets.AWS_S3_BUCKET_NAME }}/raw_data
