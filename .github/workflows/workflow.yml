@@ -13,7 +13,7 @@ jobs:
         with:
           persist-credentials: true 
           fetch-depth: 0 
-          ref: data 
+          ref: master 
           
       - name: Gathering Daily Data
         id: first_attempt
@@ -55,7 +55,7 @@ jobs:
       with:
         persist-credentials: true 
         fetch-depth: 0 
-        ref: data 
+        ref: master
     - name: Configure AWS Credentials
       uses: aws-actions/configure-aws-credentials@v1
       with:
