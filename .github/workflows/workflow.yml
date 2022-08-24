@@ -19,7 +19,7 @@ jobs:
         id: first_attempt
         continue-on-error: true
         run: |
-            Rscript codes/run_all.r
+            Rscript codes/run_all.R
             
       - name: Data Analysis for Scraped Data
         continue-on-error: true
