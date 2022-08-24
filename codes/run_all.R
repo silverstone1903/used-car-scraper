@@ -1,7 +1,7 @@
 source("codes/utils.R")
 Sys.setlocale("LC_ALL", "English")
 
-ads <- gatherer(n_pages = 5)
+ads <- gatherer(n_pages = 10)
 
 df_total <- df_maker(ads)
 
