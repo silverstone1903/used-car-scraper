@@ -1,0 +1,114 @@
+"brand","model","color","price","km","year","transmission","eng_capacity","fuel_type","consumption","drive_type","location","link","insertdate","id","eng_power_kw","eng_power_hp","age"
+"BMW","330 Gran Turismo","Black",36199,39825,2017,"Automatic",2993,"Diesel",6,"4x4","Germany","https://carvago.com/car/50531271/bmw-330-gran-turismo-d-xdrive-advantage-190-kw","22/08/2022","50531271",190,258,5
+"Volkswagen","Polo","Silver",3099,159936,2009,"Manual",1390,"Petrol",6.4,"4x2","Germany","https://carvago.com/car/51235152/volkswagen-polo-1-4-16v-59-kw","22/08/2022","51235152",59,80,13
+"Jeep","Compass","Grey",5599,167600,2010,"Manual",1968,"Diesel",6,"4x4","Germany","https://carvago.com/car/50713756/jeep-compass-88-kw","22/08/2022","50713756",88,120,12
+"Volkswagen","T-Roc","White",35749,4900,2022,"Manual",14980,"Petrol",6.6,"4x2","Germany","https://carvago.com/car/50091982/volkswagen-t-roc-tsi-110-kw","22/08/2022","50091982",110,150,0
+"Mazda","2","Blue",3699,110700,2009,"Manual",1498,"Petrol",5.7,"4x2","Germany","https://carvago.com/car/51353515/mazda-2-1-5-impression-76-kw","22/08/2022","51353515",76,103,13
+"Renault","Clio","Grey",15599,13884,2019,"Manual",14641,"Diesel",6,"4x2","Belgium","https://carvago.com/car/48302236/renault-clio-dci-85-business-66-kw","22/08/2022","48302236",66,90,3
+"Kia","XCeed","Silver",24649,19500,2020,"Manual",13534,"Petrol",6.2,"4x2","Germany","https://carvago.com/car/50175449/kia-xceed-103-kw","22/08/2022","50175449",103,140,2
+"Hyundai","i10","Silver",2599,126576,2009,"Manual",1086,"Petrol",5,"4x2","Germany","https://carvago.com/car/50005923/hyundai-i10-1-1-classic-49-kw","22/08/2022","50005923",49,67,13
+"Toyota","Aygo X","Black interior",8699,92000,2018,"Manual",998,"Petrol",4.1,"4x2","Germany","https://carvago.com/car/51037746/toyota-aygo-x-51-kw","22/08/2022","51037746",51,69,4
+"BMW","118","White",30249,35988,2021,"Automatic",15000,"Petrol",4,"4x2","Belgium","https://carvago.com/car/51225396/bmw-118-i-100-kw","22/08/2022","51225396",100,136,1
+"Toyota","Aygo X","Black interior",9199,74000,2018,"Manual",998,"Petrol",4.1,"4x2","Germany","https://carvago.com/car/50926346/toyota-aygo-x-51-kw","22/08/2022","50926346",51,69,4
+"Dodge","Charger","Green",47099,17000,2021,"Automatic",6417,"Petrol",NA,NA,"Germany","https://carvago.com/car/51150520/dodge-charger-362-kw","22/08/2022","51150520",362,492,1
+"Hyundai","i10","White",2799,120000,2009,"Manual",1086,"Petrol",5.2,"4x2","Germany","https://carvago.com/car/51513112/hyundai-i10-1-1-49-kw","22/08/2022","51513112",49,67,13
+"Skoda","Octavia","Black",3399,123000,2009,"Manual",1598,"Petrol",7.3,"4x2","Germany","https://carvago.com/car/51535710/skoda-octavia-1-6-75-kw","22/08/2022","51535710",75,102,13
+"Toyota","Land Cruiser","Brown interior",59049,20,2022,"Manual",4000,"Petrol",14,"4x4","Germany","https://carvago.com/car/41354867/toyota-land-cruiser-4-0-v6-200-kw","22/08/2022","41354867",200,272,0
+"Dodge","RAM","Black",48149,10900,2021,"Automatic",5698,"Petrol",NA,NA,"Germany","https://carvago.com/car/51536410/dodge-ram-quad-cab-laramie-296-kw","22/08/2022","51536410",296,402,1
+"Dodge","Charger","Red",50199,23000,2021,"Automatic",6417,"Petrol",NA,NA,"Germany","https://carvago.com/car/51541402/dodge-charger-362-kw","22/08/2022","51541402",362,492,1
+"Ford","Kuga","Green",26699,70236,2018,"Automatic",1999,"Petrol",8.7,"4x2","Germany","https://carvago.com/car/49127221/ford-kuga-178-kw","22/08/2022","49127221",178,242,4
+"Toyota","Hilux","White",25799,0,2022,"Manual",2986,"Diesel",8.9,"4x4","Belgium","https://carvago.com/car/44173335/toyota-hilux-70-kw","22/08/2022","44173335",70,95,0
+"Skoda","Yeti","White",8849,111872,2013,"Automatic",1798,"Petrol",8,"4x4","Germany","https://carvago.com/car/50931539/skoda-yeti-1-8-tsi-dsg-4x4-ambition-112-kw","22/08/2022","50931539",112,152,9
+"Renault","Clio","Beige",4249,125125,2012,"Manual",1149,"Petrol",6,"4x2","Czech Republic","https://carvago.com/car/51514399/renault-clio-1-2-16v-55-kw","22/08/2022","51514399",55,75,10
+"Kia","Picanto","Silver",2899,165000,2009,"Manual",1086,"Petrol",5,"4x2","Germany","https://carvago.com/car/50000345/kia-picanto-1-1-48-kw","22/08/2022","50000345",48,65,13
+"Skoda","Yeti","Black",6799,137645,2012,"Manual",1390,"Petrol",6.8,"4x2","Germany","https://carvago.com/car/51405203/skoda-yeti-1-4-tsi-ambition-90-kw","22/08/2022","51405203",90,122,10
+"Dodge","RAM","White",49149,25000,2020,"Automatic",5654,"Petrol",NA,NA,"Germany","https://carvago.com/car/50549570/dodge-ram-295-kw","22/08/2022","50549570",295,401,2
+"Dodge","RAM","Black",40849,34200,2020,"Automatic",5700,"Petrol",NA,NA,"Germany","https://carvago.com/car/48031646/dodge-ram-295-kw","22/08/2022","48031646",295,401,2
+"Toyota","Aygo X","White",9949,60813,2018,"Manual",998,"Petrol",3.8,"4x2","Netherlands","https://carvago.com/car/51481623/toyota-aygo-x-51-kw","22/08/2022","51481623",51,69,4
+"Mercedes-Benz","C 200","Silver",8199,138000,2012,"Manual",2143,"Diesel",6.1,"4x2","Germany","https://carvago.com/car/51361022/mercedes-benz-c-200-t-cdi-dpf-100-kw","22/08/2022","51361022",100,136,10
+"BMW","740","Black",53049,80338,2019,"Automatic",2993,"Diesel",6,"4x4","Germany","https://carvago.com/car/51421410/bmw-740-d-xdrive-235-kw","22/08/2022","51421410",235,320,3
+"BMW","120","Black",34499,18000,2021,"Automatic",1995,"Diesel",4.3,"4x2","Italy","https://carvago.com/car/50998226/bmw-120-140-kw","22/08/2022","50998226",140,190,1
+"Chevrolet","Spark","Black",2999,111165,2010,"Manual",1206,"Petrol",5.1,"4x2","Germany","https://carvago.com/car/50348330/chevrolet-spark-1-2-60-kw","22/08/2022","50348330",60,82,12
+"Dodge","Charger","Red",43849,36000,2020,"Automatic",6417,"Petrol",NA,NA,"Germany","https://carvago.com/car/51171342/dodge-charger-362-kw","22/08/2022","51171342",362,492,2
+"Peugeot","207","White",2899,93857,2009,"Manual",1397,"Petrol",6.4,"4x2","Germany","https://carvago.com/car/51506349/peugeot-207-sw-95-vti-filou-70-kw","22/08/2022","51506349",70,95,13
+"Dodge","Charger","Red",43949,36000,2020,"Automatic",6417,"Petrol",NA,NA,"Germany","https://carvago.com/car/51158810/dodge-charger-362-kw","22/08/2022","51158810",362,492,2
+"Peugeot","207","Black",2599,159505,2009,"Manual",1397,"Petrol",5.9,"4x2","Germany","https://carvago.com/car/51541032/peugeot-207-sw-95-vti-urban-move-70-kw","22/08/2022","51541032",70,95,13
+"Ford","Kuga","Grey",26249,34537,2019,"Automatic",1998,"Petrol",9.5,"4x4","Germany","https://carvago.com/car/50464576/ford-kuga-2-0-ecoboost-4x4-st-line-169-kw","22/08/2022","50464576",169,230,3
+"BMW","118","Other interior color",24349,24500,2020,"Automatic",1995,"Diesel",4,"4x2","France","https://carvago.com/car/49027638/bmw-118-d-112-kw","22/08/2022","49027638",112,152,2
+"BMW","M550","Grey",19799,166001,2015,"Automatic",2993,"Diesel",6,"4x4","Germany","https://carvago.com/car/51440253/bmw-m550-d-touring-xdrive-280-kw","22/08/2022","51440253",280,381,7
+"Volkswagen","Tiguan","Black",27349,66309,2018,"Manual",13950,"Petrol",5,"4x2","Belgium","https://carvago.com/car/50894321/volkswagen-tiguan-tsi-92-kw","22/08/2022","50894321",92,125,4
+"Volkswagen","Caddy","White",18549,68212,2018,"Automatic",1395,"CNG",4.1,"4x2","Italy","https://carvago.com/car/51385506/volkswagen-caddy-1-4-tgi-dsg-81-kw","22/08/2022","51385506",81,110,4
+"Chevrolet","Matiz","White",3099,113165,2009,"Manual",796,"Petrol",5.2,"4x2","Germany","https://carvago.com/car/50430342/chevrolet-matiz-0-8-s-38-kw","22/08/2022","50430342",38,52,13
+"Peugeot","208","Other interior color",10149,72329,2019,"Manual",1560,"Diesel",5,"4x2","France","https://carvago.com/car/50866850/peugeot-208-74-kw","22/08/2022","50866850",74,101,3
+"Jeep","Compass","Blue",36999,8869,2020,"Automatic",1332,"Hybrid",1.9,"4x4","Italy","https://carvago.com/car/49149556/jeep-compass-1-3-phev-limited-96-kw","22/08/2022","49149556",96,131,2
+"MG","ZS","Black",27949,4000,2022,"Automatic",2497,"Electric",NA,NA,"Germany","https://carvago.com/car/51450597/mg-zs-130-kw","22/08/2022","51450597",130,177,0
+"DS Automobiles","DS3","Black",8099,58850,2011,"Manual",1598,"Petrol",6,"4x2","Germany","https://carvago.com/car/50469778/ds-automobiles-ds3-115-kw","22/08/2022","50469778",115,156,11
+"Dodge","RAM","Blue",50199,7600,2021,"Automatic",5654,"Petrol",NA,NA,"Germany","https://carvago.com/car/51137762/dodge-ram-295-kw","22/08/2022","51137762",295,401,1
+"MG","ZS","White",27299,4000,2022,"Automatic",2497,"Electric",NA,NA,"Germany","https://carvago.com/car/51428578/mg-zs-130-kw","22/08/2022","51428578",130,177,0
+"Renault","Megane","Black",4799,134900,2009,"Manual",1397,"Petrol",6.5,"4x2","Germany","https://carvago.com/car/50514638/renault-megane-estate-tce-130-dynamique-96-kw","22/08/2022","50514638",96,131,13
+"Mercedes-Benz","C 300","Red",39449,7833,2020,"Automatic",1991,"Hybrid",6.2,"4x2","Germany","https://carvago.com/car/51260673/mercedes-benz-c-300-190-kw","22/08/2022","51260673",190,258,2
+"Ford","Mondeo","Silver",4899,164000,2011,"Automatic",1997,"Diesel",5.6,"4x2","Germany","https://carvago.com/car/51352907/ford-mondeo-2-0-turnier-tdci-103-kw","22/08/2022","51352907",103,140,11
+"Dodge","Charger","Purple",57499,4000,2021,"Automatic",6417,"Petrol",NA,NA,"Germany","https://carvago.com/car/51140892/dodge-charger-362-kw","22/08/2022","51140892",362,492,1
+"Jaguar","XF","Black",25749,83876,2018,"Automatic",2993,"Diesel",6,"4x2","Germany","https://carvago.com/car/51372030/jaguar-xf-30d-first-edition-221-kw","22/08/2022","51372030",221,300,4
+"Audi","Q5","Grey",15699,89500,2011,"Manual",1984,"Petrol",8.4,"4x4","Germany","https://carvago.com/car/51465928/audi-q5-2-0-tfsi-quattro-132-kw","22/08/2022","51465928",132,179,11
+"Dacia","Duster","Grey",16399,62100,2020,"Manual",1461,"Diesel",4.1,"4x2","Italy","https://carvago.com/car/50366660/dacia-duster-dci-115-2wd-85-kw","22/08/2022","50366660",85,116,2
+"Skoda","Fabia","Green",3399,165800,2010,"Manual",1198,"Petrol",5.9,"4x2","Germany","https://carvago.com/car/50052448/skoda-fabia-1-2-htp-cool-edition-51-kw","22/08/2022","50052448",51,69,12
+"BMW","220","Blue",33249,18300,2019,"Automatic",1995,"Diesel",5,"4x4","Germany","https://carvago.com/car/49882006/bmw-220-140-kw","22/08/2022","49882006",140,190,3
+"Volkswagen","Amarok","Grey",21499,133500,2012,"Automatic",1968,"Diesel",8,"4x4","Germany","https://carvago.com/car/50042622/volkswagen-amarok-2-0-bitdi-4motion-automatic-bluemotion-technology-132-kw","22/08/2022","50042622",132,179,10
+"Dodge","Charger","Grey",50849,760,2017,"Automatic",6400,"Petrol",13.6,"4x2","Germany","https://carvago.com/car/50542109/dodge-charger-351-kw","22/08/2022","50542109",351,477,5
+"Peugeot","208","Red",13299,74142,2020,"Manual",1499,"Diesel",3.5,"4x2","France","https://carvago.com/car/50650754/peugeot-208-100-active-74-kw","22/08/2022","50650754",74,101,2
+"BMW","320","Grey",28149,59999,2020,"Automatic",1995,"Diesel",4,"4x2","Italy","https://carvago.com/car/51149945/bmw-320-d-touring-140-kw","22/08/2022","51149945",140,190,2
+"Audi","RS3","Grey",53549,24800,2020,"Automatic",2480,"Petrol",8.5,"4x4","Germany","https://carvago.com/car/47498792/audi-rs3-294-kw","22/08/2022","47498792",294,400,2
+"Toyota","Aygo X","White",10899,12422,2018,"Manual",998,"Petrol",4.1,"4x2","Germany","https://carvago.com/car/50202687/toyota-aygo-x-53-kw","22/08/2022","50202687",53,72,4
+"Nissan","X-Trail","Black",26149,39000,2019,"Manual",1995,"Diesel",6,"4x4","Italy","https://carvago.com/car/51212954/nissan-x-trail-2-0-dci-4x4i-n-connecta-130-kw","22/08/2022","51212954",130,177,3
+"Hyundai","i10","Red",3199,141595,2010,"Manual",1086,"Petrol",5.2,"4x2","Germany","https://carvago.com/car/51072530/hyundai-i10-1-1-49-kw","22/08/2022","51072530",49,67,12
+"Toyota","Hilux","White",27349,0,2022,"Manual",2993,"Diesel",8.7,"4x4","Belgium","https://carvago.com/car/44116878/toyota-hilux-70-kw","22/08/2022","44116878",70,95,0
+"Hyundai","i30","Silver",4899,110000,2009,"Manual",1591,"Petrol",6.5,"4x2","Germany","https://carvago.com/car/51448412/hyundai-i30-cw-1-6-93-kw","22/08/2022","51448412",93,126,13
+"Dodge","Charger","Grey interior",57499,4000,2021,"Automatic",6417,"Petrol",NA,NA,"Germany","https://carvago.com/car/51134249/dodge-charger-362-kw","22/08/2022","51134249",362,492,1
+"Volkswagen","T5 Transporter","Yellow",9899,94000,2010,"Manual",1968,"Diesel",7.2,"4x2","Germany","https://carvago.com/car/51352362/volkswagen-t5-transporter-mhd-62-kw","22/08/2022","51352362",62,84,12
+"Renault","Talisman","Black",24199,36029,2020,"Automatic",1997,"Diesel",4.8,"4x2","France","https://carvago.com/car/48932056/renault-talisman-dci-160-edc-118-kw","22/08/2022","48932056",118,160,2
+"Hyundai","i20","Red",5299,106973,2014,"Manual",1248,"Petrol",5,"4x2","Czech Republic","https://carvago.com/car/51433621/hyundai-i20-1-2-62-kw","22/08/2022","51433621",62,84,8
+"Hyundai","i10","Beige",4149,55100,2011,"Manual",1086,"Petrol",5,"4x2","Poland","https://carvago.com/car/51496658/hyundai-i10-1-1-50-kw","22/08/2022","51496658",50,68,11
+"Ford","Ranger","White",44649,495,2022,"Automatic",1996,"Diesel",9.5,"4x4","Germany","https://carvago.com/car/51353865/ford-ranger-156-kw","22/08/2022","51353865",156,212,0
+"Toyota","Land Cruiser","Grey",43999,0,2022,"Automatic",2986,"Diesel",10,"4x4","Belgium","https://carvago.com/car/41354394/toyota-land-cruiser-d-4d-125-kw","22/08/2022","41354394",125,170,0
+"Mercedes-Benz","E 350","White",26849,67161,2015,"Automatic",2987,"Diesel",6,"4x2","Czech Republic","https://carvago.com/car/45758455/mercedes-benz-e-350-t-bluetec-190-kw","22/08/2022","45758455",190,258,7
+"Mercedes-Benz","C 300","Black",73199,18000,2021,"Automatic",1993,"Diesel",5.1,"4x2","Germany","https://carvago.com/car/47823292/mercedes-benz-c-300-195-kw","22/08/2022","47823292",195,265,1
+"Dodge","RAM","Black",56299,17000,2020,"Automatic",5700,"Petrol",14.2,"4x4","Germany","https://carvago.com/car/49571019/dodge-ram-295-kw","22/08/2022","49571019",295,401,2
+"Jeep","Compass","Other interior color",33549,17000,2021,"Automatic",1332,"Other fuel type",1,"4x4","Spain","https://carvago.com/car/49412955/jeep-compass-limited-140-kw","22/08/2022","49412955",140,190,1
+"BMW","750","Grey",63649,73600,2019,"Automatic",2993,"Diesel",6.3,"4x4","Germany","https://carvago.com/car/50179935/bmw-750-d-xdrive-294-kw","22/08/2022","50179935",294,400,3
+"Volkswagen","ID.4","Grey",50099,8950,2022,"Automatic",NA,"Electric",NA,NA,"France","https://carvago.com/car/50859797/volkswagen-id-4-150-kw","22/08/2022","50859797",150,204,0
+"Mercedes-Benz","E 450","Grey",56299,33508,2020,"Automatic",2996,"Petrol",8.9,"4x2","Germany","https://carvago.com/car/50689766/mercedes-benz-e-450-line-270-kw","22/08/2022","50689766",270,367,2
+"Citroen","C-Crosser","Grey",5649,144000,2011,"Automatic",2179,"Diesel",7.4,"4x4","Germany","https://carvago.com/car/51539800/citroen-c-crosser-exclusive-115-kw","22/08/2022","51539800",115,156,11
+"Volkswagen","Tiguan Allspace",NA,28999,52300,2018,"Automatic",1968,"Diesel",6.5,"4x4","Poland","https://carvago.com/car/51128983/volkswagen-tiguan-allspace-2-0-tdi-scr-4motion-dsg-highline-177-kw","22/08/2022","51128983",177,241,4
+"Peugeot","208","Other interior color",10649,76220,2019,"Manual",1560,"Diesel",3.5,"4x2","France","https://carvago.com/car/51439075/peugeot-208-74-kw","22/08/2022","51439075",74,101,3
+"Mercedes-Benz","CLA 200 Shooting Brake","Silver",16949,174000,2018,"Automatic",NA,"Diesel",4,"4x2","Germany","https://carvago.com/car/51131276/mercedes-benz-cla-200-shooting-brake-d-100-kw","22/08/2022","51131276",100,136,4
+"Dodge","Charger","Red",39299,48000,2018,"Automatic",6417,"Petrol",NA,NA,"Germany","https://carvago.com/car/51158578/dodge-charger-362-kw","22/08/2022","51158578",362,492,4
+"Audi","A5","Blue",40849,1800,2020,"Automatic",1984,"Petrol",6,"4x4","Germany","https://carvago.com/car/47594349/audi-a5-185-kw","22/08/2022","47594349",185,252,2
+"Toyota","Aygo X","Black",17449,6000,2022,"Automatic",998,"Petrol",4,"4x2","France","https://carvago.com/car/51299493/toyota-aygo-x-1-0-cvt-53-kw","22/08/2022","51299493",53,72,0
+"Cupra","Leon","Red",36299,11100,2020,"Automatic",1984,"Petrol",7.1,"4x4","Germany","https://carvago.com/car/50037767/cupra-leon-221-kw","22/08/2022","50037767",221,300,2
+"BMW","220","Red",19399,96788,2016,"Automatic",1995,"Diesel",4,"4x2","Germany","https://carvago.com/car/44173812/bmw-220-140-kw","22/08/2022","44173812",140,190,6
+"Dodge","Charger","Blue",31449,4800,2021,"Automatic",3605,"Petrol",NA,NA,"Germany","https://carvago.com/car/51464865/dodge-charger-218-kw","22/08/2022","51464865",218,296,1
+"Citroen","C3","Grey",3899,55571,2009,"Manual",1360,"Petrol",6,"4x2","Germany","https://carvago.com/car/50059397/citroen-c3-1-4-54-kw","22/08/2022","50059397",54,73,13
+"Volvo","V60","Silver",11399,137000,2012,"Automatic",2400,"Diesel",6.4,"4x4","Germany","https://carvago.com/car/51288913/volvo-v60-169-kw","22/08/2022","51288913",169,230,10
+"BMW","X1","White",33849,30600,2019,"Automatic",1995,"Diesel",4.8,"4x4","Germany","https://carvago.com/car/49973227/bmw-x1-20d-140-kw","22/08/2022","49973227",140,190,3
+"Peugeot","208","White",10049,110669,2019,"Manual",1499,"Diesel",5,"4x2","France","https://carvago.com/car/49145965/peugeot-208-bluehdi-100-75-kw","22/08/2022","49145965",75,102,3
+"Hyundai","i10","Black",3099,150000,2009,"Manual",1086,"Petrol",5.2,"4x2","Germany","https://carvago.com/car/50663198/hyundai-i10-1-1-49-kw","22/08/2022","50663198",49,67,13
+"Audi","Q3","Black",45649,15500,2022,"Automatic",1395,"Other fuel type",1.6,"4x2","Italy","https://carvago.com/car/51287870/audi-q3-180-kw","22/08/2022","51287870",180,245,0
+"DS Automobiles","DS7 Crossback","White",41399,9851,2021,"Automatic",1598,"Hybrid",1.5,"4x4","Italy","https://carvago.com/car/51218563/ds-automobiles-ds7-crossback-221-kw","22/08/2022","51218563",221,300,1
+"Opel","Insignia","Blue",7899,150000,2016,"Manual",1598,"Diesel",4.1,"4x2","Germany","https://carvago.com/car/51467306/opel-insignia-sports-tourer-1-6-cdti-start-stop-88-kw","22/08/2022","51467306",88,120,6
+"MG","ZS","Black",30499,2500,2022,"Automatic",2497,"Electric",NA,NA,"Germany","https://carvago.com/car/50582680/mg-zs-130-kw","22/08/2022","50582680",130,177,0
+"BMW","218","Silver",24999,4880,2019,"Manual",1499,"Petrol",5.8,"4x2","Germany","https://carvago.com/car/50568343/bmw-218-advantage-103-kw","22/08/2022","50568343",103,140,3
+"Chevrolet","Matiz","Blue",2849,75000,2009,"Manual",796,"Petrol",5.2,"4x2","Germany","https://carvago.com/car/51459612/chevrolet-matiz-0-8-38-kw","23/08/2022","51459612",38,52,13
+"Cadillac","BLS","Black",5399,174000,2011,"Automatic",1910,"Diesel",8,"4x2","Germany","https://carvago.com/car/51554166/cadillac-bls-110-kw","23/08/2022","51554166",110,150,11
+"Volkswagen","Polo","Blue",5999,57111,2011,"Manual",1390,"Petrol",5.8,"4x2","Germany","https://carvago.com/car/50507805/volkswagen-polo-1-4-comfortline-63-kw","23/08/2022","50507805",63,86,11
+"BMW","118","Black",22449,86291,2019,"Automatic",1995,"Diesel",4.4,"4x2","Germany","https://carvago.com/car/49692145/bmw-118-d-advantage-110-kw","23/08/2022","49692145",110,150,3
+"Mercedes-Benz","C 220","Grey",27149,73000,2017,"Manual",24900,"Diesel",4,"4x2","Belgium","https://carvago.com/car/50183848/mercedes-benz-c-220-d-avantgarde-120-kw","23/08/2022","50183848",120,163,5
+"BMW","118","White",19299,74033,2019,"Automatic",1995,"Diesel",4.4,"4x2","Germany","https://carvago.com/car/51555773/bmw-118-d-sport-line-110-kw","23/08/2022","51555773",110,150,3
+"Mercedes-Benz","GLB 220","White",41599,38000,2020,"Automatic",1950,"Diesel",5.1,"4x4","Italy","https://carvago.com/car/51548171/mercedes-benz-glb-220-d-140-kw","23/08/2022","51548171",140,190,2
+"Volkswagen","Passat","Blue",7899,101094,2010,"Manual",1598,"Diesel",4.5,"4x2","Germany","https://carvago.com/car/50740600/volkswagen-passat-1-6-tdi-dpf-technology-77-kw","23/08/2022","50740600",77,105,12
+"Suzuki","Vitara","Grey",14299,77780,2017,"Automatic",1373,"Petrol",5.2,"4x4","Germany","https://carvago.com/car/51457885/suzuki-vitara-103-kw","23/08/2022","51457885",103,140,5
+"BMW","X1","Blue",8899,154200,2013,"Manual",1995,"Petrol",7.7,"4x2","Germany","https://carvago.com/car/51554962/bmw-x1-110-kw","23/08/2022","51554962",110,150,9
+"BMW","M240i","Black",45649,13150,2021,"Automatic",2998,"Petrol",7.3,"4x2","Germany","https://carvago.com/car/51546463/bmw-m240i-coupe-250-kw","23/08/2022","51546463",250,340,1
+"Dacia","Spring","Blue",19399,200,2022,"Automatic",NA,"Electric",NA,"4x2","Germany","https://carvago.com/car/51552980/dacia-spring-33-kw","23/08/2022","51552980",33,45,0
+"Dodge","RAM","Silver",63399,5639,2020,"Automatic",5654,"Petrol",12.8,"4x4","Netherlands","https://carvago.com/car/50481555/dodge-ram-laramie-296-kw","23/08/2022","50481555",296,402,2
+"Isuzu","D-Max","Silver",36249,1000,2022,"Automatic",1898,"Diesel",8,"4x4","Poland","https://carvago.com/car/50244750/isuzu-d-max-4x4-double-cab-120-kw","23/08/2022","50244750",120,163,0

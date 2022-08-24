@@ -1,0 +1,10 @@
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+.Rhistory
+*.ipynb
+*.mp4
+*.rmd
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata

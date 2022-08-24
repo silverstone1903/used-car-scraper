@@ -1,0 +1,68 @@
+name: Scraper
+on:
+  workflow_dispatch:
+  schedule:
+   - cron: "15 18 * * *"
+jobs:
+  scraper:
+    runs-on: ubuntu-latest
+    container:
+      image: silverstone1903/rockerrr
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          persist-credentials: true 
+          fetch-depth: 0 
+          ref: data 
+          
+      - name: Gathering Daily Data
+        id: first_attempt
+        continue-on-error: true
+        run: |
+            Rscript codes/run_all.r
+            
+      - name: Data Analysis for Scraped Data
+        continue-on-error: true
+        run: Rscript codes/analysis.R
+        
+      - name: Insert Data to DB
+        continue-on-error: true
+        # https://canovasjm.netlify.app/2021/01/12/github-secrets-from-python-and-r/#on-github-secrets
+        env: 
+          DB_HOST: ${{ secrets.DB_HOST }}
+          DB_NAME: ${{ secrets.DB_NAME }}
+          DB_PASS: ${{ secrets.DB_PASS }}
+          DB_USER: ${{ secrets.DB_USER }}
+          DB_PORT: ${{ secrets.DB_PORT }}
+        run: Rscript codes/df_2_db.R 
+  
+      - name: Commit files
+        run: |
+          ls -a
+          git config --global --add safe.directory /__w/used-car-scraper/used-car-scraper
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git diff-index --quiet HEAD || git commit -m "Update data" -a
+          git push 
+
+# https://stackoverflow.com/a/67041362
+  datasync:
+    runs-on: ubuntu-latest
+    needs: scraper
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        persist-credentials: true 
+        fetch-depth: 0 
+        ref: data 
+    - name: Configure AWS Credentials
+      uses: aws-actions/configure-aws-credentials@v1
+      with:
+        aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+        aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+        aws-region: eu-west-1
+
+    - name: Copy files to the s3 bucket
+      run:
+        aws s3 sync processed s3://${{ secrets.AWS_S3_BUCKET_NAME }}

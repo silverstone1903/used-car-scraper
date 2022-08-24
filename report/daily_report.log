@@ -1,0 +1,342 @@
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Analyse Date: 24-08-2022
+Total DF: 3
+Data Dim: 297 x 18 
+Date Between: 22/08/2022 - 24/08/2022 
+Unique Count: 149
+Unique ratio: 0.5016835
+
+
+|brand          | Count|
+|:--------------|-----:|
+|Audi           |    14|
+|BMW            |    38|
+|Cadillac       |     2|
+|Chevrolet      |     9|
+|Citroen        |     3|
+|Cupra          |     2|
+|Dacia          |     7|
+|Dodge          |    43|
+|DS Automobiles |     5|
+|Ford           |    11|
+|Hyundai        |    15|
+|Isuzu          |     1|
+|Jaguar         |     3|
+|Jeep           |     7|
+|Kia            |     5|
+|Land Rover     |     1|
+|Mazda          |     2|
+|Mercedes-Benz  |    21|
+|MG             |     9|
+|Nissan         |     3|
+|Opel           |     3|
+|Peugeot        |    16|
+|Porsche        |     1|
+|Renault        |    10|
+|Seat           |     1|
+|Skoda          |     9|
+|Subaru         |     1|
+|Suzuki         |     2|
+|Toyota         |    24|
+|Volkswagen     |    25|
+|Volvo          |     3|
+|NA             |     1|
+
+
+|fuel_type       | Count|
+|:---------------|-----:|
+|CNG             |     2|
+|Diesel          |   107|
+|Electric        |    13|
+|Hybrid          |    10|
+|LPG             |     2|
+|Other fuel type |     6|
+|Petrol          |   156|
+|NA              |     1|
+
+
+|transmission | Count|
+|:------------|-----:|
+|Automatic    |   168|
+|Manual       |   128|
+|NA           |     1|
+
+
+|insertdate |  n|
+|:----------|--:|
+|22/08/2022 | 99|
+|23/08/2022 | 99|
+|24/08/2022 | 99|
+
+
+|model                  | Count|
+|:----------------------|-----:|
+|118                    |     7|
+|120                    |     3|
+|2                      |     2|
+|207                    |     4|
+|208                    |    11|
+|218                    |     3|
+|220                    |     6|
+|308                    |     1|
+|320                    |     4|
+|330 Gran Turismo       |     2|
+|420                    |     1|
+|740                    |     2|
+|750                    |     1|
+|A 150                  |     1|
+|A3                     |     1|
+|A5                     |     3|
+|Amarok                 |     2|
+|Astra                  |     1|
+|Aygo X                 |    13|
+|BLS                    |     1|
+|C 180                  |     1|
+|C 200                  |     3|
+|C 220                  |     2|
+|C 300                  |     5|
+|C 400                  |     1|
+|C-Crosser              |     2|
+|C3                     |     1|
+|Caddy                  |     3|
+|Cayenne                |     1|
+|Challenger             |     1|
+|Charger                |    23|
+|CLA 200 Shooting Brake |     3|
+|Clio                   |     5|
+|Compass                |     7|
+|D-Max                  |     1|
+|Discovery Sport        |     1|
+|DS3                    |     2|
+|DS7 Crossback          |     3|
+|Duster                 |     3|
+|E 200                  |     1|
+|E 350                  |     1|
+|E 450                  |     2|
+|Fabia                  |     2|
+|Forester               |     1|
+|GLB 220                |     1|
+|Hilux                  |     6|
+|i10                    |    11|
+|i20                    |     1|
+|i30                    |     3|
+|ID.4                   |     3|
+|Insignia               |     2|
+|Kuga                   |     6|
+|Land Cruiser           |     5|
+|Leon                   |     3|
+|M240i                  |     1|
+|M550                   |     3|
+|Matiz                  |     6|
+|Megane                 |     2|
+|Mondeo                 |     2|
+|Octavia                |     2|
+|Passat                 |     1|
+|Picanto                |     2|
+|Polo                   |     4|
+|Q3                     |     3|
+|Q5                     |     3|
+|RAM                    |    19|
+|Ranger                 |     3|
+|RS3                    |     4|
+|Sandero                |     3|
+|Spark                  |     3|
+|Spring                 |     1|
+|T-Roc                  |     3|
+|T5 Transporter         |     3|
+|Talisman               |     3|
+|Tiguan                 |     3|
+|Tiguan Allspace        |     3|
+|V60                    |     3|
+|Vitara                 |     2|
+|X-Trail                |     3|
+|X1                     |     5|
+|XCeed                  |     3|
+|XF                     |     3|
+|XT4                    |     1|
+|Yeti                   |     5|
+|ZS                     |     9|
+|NA                     |     1|
+
+
+| year| Count|
+|----:|-----:|
+| 2009|    36|
+| 2010|    17|
+| 2011|    13|
+| 2012|    11|
+| 2013|     5|
+| 2014|     1|
+| 2015|     4|
+| 2016|     6|
+| 2017|     9|
+| 2018|    32|
+| 2019|    37|
+| 2020|    48|
+| 2021|    37|
+| 2022|    40|
+|   NA|     1|
+
+
+|model                  | Avg. Km (Model)|
+|:----------------------|---------------:|
+|118                    |       45326.857|
+|120                    |       18000.000|
+|2                      |      110700.000|
+|207                    |      143093.000|
+|208                    |       86404.091|
+|218                    |       31120.000|
+|220                    |       45910.000|
+|308                    |      131579.000|
+|320                    |       52186.750|
+|330 Gran Turismo       |       39825.000|
+|420                    |       43606.000|
+|740                    |       80338.000|
+|750                    |       73600.000|
+|A 150                  |      123500.000|
+|A3                     |         100.000|
+|A5                     |        8666.667|
+|Amarok                 |      133500.000|
+|Astra                  |      115201.000|
+|Aygo X                 |       55669.615|
+|BLS                    |      174000.000|
+|C 180                  |      139500.000|
+|C 200                  |      138000.000|
+|C 220                  |       73000.000|
+|C 300                  |       13933.200|
+|C 400                  |        1450.000|
+|C-Crosser              |      144000.000|
+|C3                     |       55571.000|
+|Caddy                  |       88896.667|
+|Cayenne                |      107115.000|
+|Challenger             |        2613.000|
+|Charger                |       19394.783|
+|CLA 200 Shooting Brake |      174000.000|
+|Clio                   |       34526.400|
+|Compass                |       57705.429|
+|D-Max                  |        1000.000|
+|Discovery Sport        |       61504.000|
+|DS3                    |       58850.000|
+|DS7 Crossback          |        9851.000|
+|Duster                 |       62100.000|
+|E 200                  |      102000.000|
+|E 350                  |       67161.000|
+|E 450                  |       33508.000|
+|Fabia                  |      165800.000|
+|Forester               |        6900.000|
+|GLB 220                |       38000.000|
+|Hilux                  |           0.000|
+|i10                    |      121670.091|
+|i20                    |      106973.000|
+|i30                    |      110000.000|
+|ID.4                   |        8950.000|
+|Insignia               |      150000.000|
+|Kuga                   |       52386.500|
+|Land Cruiser           |          12.000|
+|Leon                   |       56900.000|
+|M240i                  |       13150.000|
+|M550                   |      166001.000|
+|Matiz                  |       92435.833|
+|Megane                 |      134900.000|
+|Mondeo                 |      164000.000|
+|Octavia                |      123000.000|
+|Passat                 |      101094.000|
+|Picanto                |      165000.000|
+|Polo                   |      120995.750|
+|Q3                     |       15500.000|
+|Q5                     |       89500.000|
+|RAM                    |       18421.737|
+|Ranger                 |         495.000|
+|RS3                    |       26350.000|
+|Sandero                |       86408.333|
+|Spark                  |      111165.000|
+|Spring                 |         200.000|
+|T-Roc                  |        4900.000|
+|T5 Transporter         |       94000.000|
+|Talisman               |       36029.000|
+|Tiguan                 |       66309.000|
+|Tiguan Allspace        |       52300.000|
+|V60                    |      137000.000|
+|Vitara                 |       77780.000|
+|X-Trail                |       39000.000|
+|X1                     |       80040.000|
+|XCeed                  |       19500.000|
+|XF                     |       83876.000|
+|XT4                    |           0.000|
+|Yeti                   |      122181.200|
+|ZS                     |        3500.000|
+|NA                     |             NaN|
+
+
+|brand          | Avg. Km (Brand)|
+|:--------------|---------------:|
+|Audi           |        31892.86|
+|BMW            |        58361.58|
+|Cadillac       |        87000.00|
+|Chevrolet      |        98678.89|
+|Citroen        |       114523.67|
+|Cupra          |        11100.00|
+|Dacia          |        63675.00|
+|Dodge          |        18574.56|
+|DS Automobiles |        29450.60|
+|Ford           |        58527.64|
+|Hyundai        |       118356.27|
+|Isuzu          |         1000.00|
+|Jaguar         |        83876.00|
+|Jeep           |        57705.43|
+|Kia            |        77700.00|
+|Land Rover     |        61504.00|
+|Mazda          |       110700.00|
+|Mercedes-Benz  |        80490.14|
+|MG             |         3500.00|
+|Nissan         |        39000.00|
+|Opel           |       138400.33|
+|Peugeot        |       103399.75|
+|Porsche        |       107115.00|
+|Renault        |        55051.90|
+|Seat           |       148500.00|
+|Skoda          |       132056.22|
+|Subaru         |         6900.00|
+|Suzuki         |        77780.00|
+|Toyota         |        30156.88|
+|Volkswagen     |        71925.76|
+|Volvo          |       137000.00|
+|NA             |             NaN|
+
+
+|brand          |  Avg. Age|
+|:--------------|---------:|
+|Audi           |  3.642857|
+|BMW            |  3.236842|
+|Cadillac       |  5.500000|
+|Chevrolet      | 12.666667|
+|Citroen        | 11.666667|
+|Cupra          |  2.000000|
+|Dacia          |  6.285714|
+|Dodge          |  1.883721|
+|DS Automobiles |  5.000000|
+|Ford           |  3.909091|
+|Hyundai        | 12.266667|
+|Isuzu          |  0.000000|
+|Jaguar         |  4.000000|
+|Jeep           |  4.428571|
+|Kia            |  6.400000|
+|Land Rover     |  0.000000|
+|Mazda          | 13.000000|
+|Mercedes-Benz  |  4.952381|
+|MG             |  0.000000|
+|Nissan         |  3.000000|
+|Opel           |  8.000000|
+|Peugeot        |  5.375000|
+|Porsche        | 12.000000|
+|Renault        |  5.400000|
+|Seat           | 13.000000|
+|Skoda          | 10.777778|
+|Subaru         |  0.000000|
+|Suzuki         |  5.000000|
+|Toyota         |  2.000000|
+|Volkswagen     |  6.240000|
+|Volvo          | 10.000000|
+|NA             |       NaN|
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
