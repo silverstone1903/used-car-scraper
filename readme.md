@@ -1,5 +1,5 @@
 ### Used Car R Scraper
-[![Scraper](https://github.com/silverstone1903/used-car-scraper/actions/workflows/workflow.yml/badge.svg?branch=data)](https://github.com/silverstone1903/used-car-scraper/actions/workflows/workflow.yml)
+[![Scraper](https://github.com/silverstone1903/used-car-scraper/actions/workflows/workflow.yml/badge.svg)](https://github.com/silverstone1903/used-car-scraper/actions/workflows/workflow.yml)
 
 Required Packages;
 ```r
