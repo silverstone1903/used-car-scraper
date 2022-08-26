@@ -29,7 +29,7 @@ Unique ratio: 0.3570521
 |Jaguar         |     4|
 |Jeep           |    15|
 |Kia            |    13|
-|Land Rover     |     6|
+|Land Rover     |     7|
 |Lexus          |     3|
 |Mazda          |     2|
 |Mercedes-Benz  |    61|
@@ -47,7 +47,7 @@ Unique ratio: 0.3570521
 |Suzuki         |     9|
 |Toyota         |    44|
 |Volkswagen     |    57|
-|Volvo          |    27|
+|Volvo          |    26|
 |NA             |     3|
 
 
@@ -191,7 +191,7 @@ Unique ratio: 0.3570521
 |Q5                           |     5|
 |RAM                          |    38|
 |Range Rover Evoque           |     3|
-|Range Rover Velar            |     2|
+|Range Rover Velar            |     3|
 |Ranger                       |     7|
 |Renegade                     |     3|
 |RS3                          |     8|
@@ -212,7 +212,7 @@ Unique ratio: 0.3570521
 |Tipo                         |     2|
 |up!                          |     3|
 |UX                           |     3|
-|V60                          |    13|
+|V60                          |    12|
 |V90                          |     8|
 |V90 Cross Country            |     3|
 |Vitara                       |     4|
@@ -240,9 +240,9 @@ Unique ratio: 0.3570521
 | 2016|    17|
 | 2017|    31|
 | 2018|    76|
-| 2019|   132|
+| 2019|   133|
 | 2020|   120|
-| 2021|   124|
+| 2021|   123|
 | 2022|   117|
 |   NA|     3|
 
@@ -380,7 +380,7 @@ Unique ratio: 0.3570521
 |Tipo                         |       3800.0000|
 |up!                          |      26829.0000|
 |UX                           |      22139.0000|
-|V60                          |      65580.7692|
+|V60                          |      68315.8333|
 |V90                          |      65880.0000|
 |V90 Cross Country            |      66920.0000|
 |Vitara                       |      77780.0000|
@@ -418,7 +418,7 @@ Unique ratio: 0.3570521
 |Jaguar         |       83876.000|
 |Jeep           |       35978.867|
 |Kia            |       48230.538|
-|Land Rover     |       67934.000|
+|Land Rover     |       67736.286|
 |Lexus          |       22139.000|
 |Mazda          |      110700.000|
 |Mercedes-Benz  |       64032.180|
@@ -436,7 +436,7 @@ Unique ratio: 0.3570521
 |Suzuki         |       59124.444|
 |Toyota         |       40264.727|
 |Volkswagen     |       58192.123|
-|Volvo          |       70087.037|
+|Volvo          |       71522.692|
 |NA             |             NaN|
 
 
@@ -462,7 +462,7 @@ Unique ratio: 0.3570521
 |Jaguar         |  4.0000000|
 |Jeep           |  2.6000000|
 |Kia            |  3.6923077|
-|Land Rover     |  6.0000000|
+|Land Rover     |  5.5714286|
 |Lexus          |  2.0000000|
 |Mazda          | 13.0000000|
 |Mercedes-Benz  |  4.2786885|
@@ -480,7 +480,7 @@ Unique ratio: 0.3570521
 |Suzuki         |  4.1111111|
 |Toyota         |  2.7954545|
 |Volkswagen     |  4.2807018|
-|Volvo          |  3.4074074|
+|Volvo          |  3.5000000|
 |NA             |        NaN|
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
