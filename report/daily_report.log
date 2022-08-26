@@ -1,10 +1,10 @@
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 Analyse Date: 26-08-2022
 Total DF: 5
-Data Dim: 787 x 18 
+Data Dim: 788 x 18 
 Date Between: 22/08/2022 - 26/08/2022 
 Unique Count: 281
-Unique ratio: 0.3570521
+Unique ratio: 0.356599
 
 
 |brand          | Count|
@@ -47,14 +47,14 @@ Unique ratio: 0.3570521
 |Suzuki         |     9|
 |Toyota         |    44|
 |Volkswagen     |    57|
-|Volvo          |    26|
+|Volvo          |    27|
 |NA             |     3|
 
 
 |fuel_type       | Count|
 |:---------------|-----:|
 |CNG             |     2|
-|Diesel          |   337|
+|Diesel          |   338|
 |Electric        |    39|
 |Hybrid          |    28|
 |LPG             |     7|
@@ -65,7 +65,7 @@ Unique ratio: 0.3570521
 
 |transmission | Count|
 |:------------|-----:|
-|Automatic    |   492|
+|Automatic    |   493|
 |Manual       |   292|
 |NA           |     3|
 
@@ -76,7 +76,7 @@ Unique ratio: 0.3570521
 |23/08/2022 |  99|
 |24/08/2022 | 198|
 |25/08/2022 | 194|
-|26/08/2022 | 197|
+|26/08/2022 | 198|
 
 
 |model                        | Count|
@@ -212,7 +212,7 @@ Unique ratio: 0.3570521
 |Tipo                         |     2|
 |up!                          |     3|
 |UX                           |     3|
-|V60                          |    12|
+|V60                          |    13|
 |V90                          |     8|
 |V90 Cross Country            |     3|
 |Vitara                       |     4|
@@ -242,7 +242,7 @@ Unique ratio: 0.3570521
 | 2018|    76|
 | 2019|   133|
 | 2020|   120|
-| 2021|   123|
+| 2021|   124|
 | 2022|   117|
 |   NA|     3|
 
@@ -380,7 +380,7 @@ Unique ratio: 0.3570521
 |Tipo                         |       3800.0000|
 |up!                          |      26829.0000|
 |UX                           |      22139.0000|
-|V60                          |      68315.8333|
+|V60                          |      65580.7692|
 |V90                          |      65880.0000|
 |V90 Cross Country            |      66920.0000|
 |Vitara                       |      77780.0000|
@@ -436,7 +436,7 @@ Unique ratio: 0.3570521
 |Suzuki         |       59124.444|
 |Toyota         |       40264.727|
 |Volkswagen     |       58192.123|
-|Volvo          |       71522.692|
+|Volvo          |       70087.037|
 |NA             |             NaN|
 
 
@@ -480,7 +480,7 @@ Unique ratio: 0.3570521
 |Suzuki         |  4.1111111|
 |Toyota         |  2.7954545|
 |Volkswagen     |  4.2807018|
-|Volvo          |  3.5000000|
+|Volvo          |  3.4074074|
 |NA             |        NaN|
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
