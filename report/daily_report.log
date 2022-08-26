@@ -1,10 +1,10 @@
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 Analyse Date: 26-08-2022
 Total DF: 5
-Data Dim: 788 x 18 
+Data Dim: 787 x 18 
 Date Between: 22/08/2022 - 26/08/2022 
 Unique Count: 281
-Unique ratio: 0.356599
+Unique ratio: 0.3570521
 
 
 |brand          | Count|
@@ -29,7 +29,7 @@ Unique ratio: 0.356599
 |Jaguar         |     4|
 |Jeep           |    15|
 |Kia            |    13|
-|Land Rover     |     7|
+|Land Rover     |     6|
 |Lexus          |     3|
 |Mazda          |     2|
 |Mercedes-Benz  |    61|
@@ -54,7 +54,7 @@ Unique ratio: 0.356599
 |fuel_type       | Count|
 |:---------------|-----:|
 |CNG             |     2|
-|Diesel          |   338|
+|Diesel          |   337|
 |Electric        |    39|
 |Hybrid          |    28|
 |LPG             |     7|
@@ -65,7 +65,7 @@ Unique ratio: 0.356599
 
 |transmission | Count|
 |:------------|-----:|
-|Automatic    |   493|
+|Automatic    |   492|
 |Manual       |   292|
 |NA           |     3|
 
@@ -76,7 +76,7 @@ Unique ratio: 0.356599
 |23/08/2022 |  99|
 |24/08/2022 | 198|
 |25/08/2022 | 194|
-|26/08/2022 | 198|
+|26/08/2022 | 197|
 
 
 |model                        | Count|
@@ -191,7 +191,7 @@ Unique ratio: 0.356599
 |Q5                           |     5|
 |RAM                          |    38|
 |Range Rover Evoque           |     3|
-|Range Rover Velar            |     3|
+|Range Rover Velar            |     2|
 |Ranger                       |     7|
 |Renegade                     |     3|
 |RS3                          |     8|
@@ -240,7 +240,7 @@ Unique ratio: 0.356599
 | 2016|    17|
 | 2017|    31|
 | 2018|    76|
-| 2019|   133|
+| 2019|   132|
 | 2020|   120|
 | 2021|   124|
 | 2022|   117|
@@ -418,7 +418,7 @@ Unique ratio: 0.356599
 |Jaguar         |       83876.000|
 |Jeep           |       35978.867|
 |Kia            |       48230.538|
-|Land Rover     |       67736.286|
+|Land Rover     |       67934.000|
 |Lexus          |       22139.000|
 |Mazda          |      110700.000|
 |Mercedes-Benz  |       64032.180|
@@ -462,7 +462,7 @@ Unique ratio: 0.356599
 |Jaguar         |  4.0000000|
 |Jeep           |  2.6000000|
 |Kia            |  3.6923077|
-|Land Rover     |  5.5714286|
+|Land Rover     |  6.0000000|
 |Lexus          |  2.0000000|
 |Mazda          | 13.0000000|
 |Mercedes-Benz  |  4.2786885|
