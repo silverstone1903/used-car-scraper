@@ -1,10 +1,10 @@
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 Analyse Date: 28-08-2022
 Total DF: 7
-Data Dim: 1184 x 18 
+Data Dim: 1183 x 18 
 Date Between: 22/08/2022 - 28/08/2022 
 Unique Count: 308
-Unique ratio: 0.2601351
+Unique ratio: 0.260355
 
 
 |brand          | Count|
@@ -44,7 +44,7 @@ Unique ratio: 0.2601351
 |Skoda          |    19|
 |SsangYong      |     5|
 |Subaru         |     3|
-|Suzuki         |    15|
+|Suzuki         |    14|
 |Toyota         |    60|
 |Volkswagen     |    82|
 |Volvo          |    39|
@@ -59,13 +59,13 @@ Unique ratio: 0.2601351
 |Hybrid          |    39|
 |LPG             |    13|
 |Other fuel type |    19|
-|Petrol          |   544|
+|Petrol          |   543|
 |NA              |     3|
 
 
 |transmission | Count|
 |:------------|-----:|
-|Automatic    |   747|
+|Automatic    |   746|
 |Manual       |   434|
 |NA           |     3|
 
@@ -78,7 +78,7 @@ Unique ratio: 0.2601351
 |25/08/2022 | 194|
 |26/08/2022 | 198|
 |27/08/2022 | 198|
-|28/08/2022 | 198|
+|28/08/2022 | 197|
 
 
 |model                        | Count|
@@ -222,7 +222,7 @@ Unique ratio: 0.2601351
 |V60                          |    19|
 |V90                          |    12|
 |V90 Cross Country            |     3|
-|Vitara                       |     6|
+|Vitara                       |     5|
 |X-Trail                      |     7|
 |X1                           |    20|
 |X2                           |     2|
@@ -245,7 +245,7 @@ Unique ratio: 0.2601351
 | 2014|     6|
 | 2015|    23|
 | 2016|    27|
-| 2017|    50|
+| 2017|    49|
 | 2018|   112|
 | 2019|   203|
 | 2020|   193|
@@ -445,7 +445,7 @@ Unique ratio: 0.2601351
 |Skoda          |      108230.632|
 |SsangYong      |       92400.000|
 |Subaru         |        6900.000|
-|Suzuki         |       60245.333|
+|Suzuki         |       58992.857|
 |Toyota         |       44378.033|
 |Volkswagen     |       58639.280|
 |Volvo          |       70682.308|
@@ -489,7 +489,7 @@ Unique ratio: 0.2601351
 |Skoda          |  8.052632|
 |SsangYong      |  5.000000|
 |Subaru         |  0.000000|
-|Suzuki         |  4.200000|
+|Suzuki         |  4.142857|
 |Toyota         |  3.066667|
 |Volkswagen     |  4.036585|
 |Volvo          |  3.333333|
