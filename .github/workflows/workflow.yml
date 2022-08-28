@@ -1,4 +1,4 @@
-name: Scraper
+name: Scraper & Data Sync & Markdown
 on:
   workflow_dispatch:
   schedule:
@@ -63,7 +63,30 @@ jobs:
         aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
         aws-region: eu-west-1
 
-    - name: Copy files to the s3 bucket
+    - name: Copy files to the S3 bucket
       run: |
         aws s3 sync processed s3://${{ secrets.AWS_S3_BUCKET_NAME }}/processed
         aws s3 sync raw_data s3://${{ secrets.AWS_S3_BUCKET_NAME }}/raw_data
+
+  rmarkdown:
+    runs-on: ubuntu-latest
+    container:
+        image: silverstone1903/pythonr
+    needs: datasync
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          persist-credentials: true 
+          fetch-depth: 0 
+          ref: master 
+      - name: Rmarkdown Report
+        run: R -e "rmarkdown::render('codes/used-car.rmd', output_file='../report/report.html', encoding='UTF-8')"
+        
+      - name: Commit & push report
+        run: |
+          git config --global --add safe.directory /__w/used-car-scraper/used-car-scraper
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git diff-index --quiet HEAD || git commit -m "Update data" -a
+          git push 

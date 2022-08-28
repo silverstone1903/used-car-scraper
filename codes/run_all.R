@@ -46,6 +46,5 @@ write.csv(
   str_replace_all(paste0(
     "raw_data/", "carvago", "_", Sys.Date(), ".csv"
   ), "-", "_"),
-  row.names = F,
-  # fileEncoding = 'utf-8'
+  row.names = F
 )
