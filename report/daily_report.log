@@ -13,7 +13,7 @@ Unique ratio: 0.2483707
 |Alfa Romeo     |    15|
 |Audi           |    79|
 |BAIC Motor     |     4|
-|BMW            |   260|
+|BMW            |   261|
 |Cadillac       |    29|
 |Chevrolet      |    36|
 |Citroen        |    11|
@@ -40,7 +40,7 @@ Unique ratio: 0.2483707
 |Opel           |    25|
 |Peugeot        |    58|
 |Porsche        |     4|
-|Renault        |    59|
+|Renault        |    58|
 |Seat           |     7|
 |Skoda          |    21|
 |SsangYong      |     6|
@@ -91,7 +91,7 @@ Unique ratio: 0.2483707
 |2                            |     5|
 |207                          |     9|
 |208                          |    34|
-|218                          |    27|
+|218                          |    28|
 |220                          |    66|
 |3008                         |     1|
 |308                          |    14|
@@ -173,7 +173,7 @@ Unique ratio: 0.2483707
 |Jimny                        |     6|
 |John Cooper Works Countryman |     1|
 |Kodiaq                       |     6|
-|Koleos                       |     6|
+|Koleos                       |     5|
 |Korando                      |     6|
 |Kuga                         |    16|
 |Land Cruiser                 |    11|
@@ -262,8 +262,8 @@ Unique ratio: 0.2483707
 | 2017|    61|
 | 2018|   132|
 | 2019|   238|
-| 2020|   222|
-| 2021|   227|
+| 2020|   223|
+| 2021|   226|
 | 2022|   188|
 |   NA|     3|
 
@@ -276,7 +276,7 @@ Unique ratio: 0.2483707
 |2                            |      140101.200|
 |207                          |      152210.778|
 |208                          |       76530.176|
-|218                          |       30187.593|
+|218                          |       29726.893|
 |220                          |       57117.106|
 |3008                         |      101759.000|
 |308                          |      111531.000|
@@ -440,7 +440,7 @@ Unique ratio: 0.2483707
 |Alfa Romeo     |       25081.067|
 |Audi           |       29290.734|
 |BAIC Motor     |       17000.000|
-|BMW            |       54013.150|
+|BMW            |       53872.441|
 |Cadillac       |        7202.621|
 |Chevrolet      |       88508.861|
 |Citroen        |      104928.545|
@@ -467,7 +467,7 @@ Unique ratio: 0.2483707
 |Opel           |      105839.920|
 |Peugeot        |       97157.172|
 |Porsche        |      107115.000|
-|Renault        |       79511.475|
+|Renault        |       79606.500|
 |Seat           |      121039.429|
 |Skoda          |      107557.429|
 |SsangYong      |       92400.000|
@@ -485,7 +485,7 @@ Unique ratio: 0.2483707
 |Alfa Romeo     |  2.6000000|
 |Audi           |  2.8987342|
 |BAIC Motor     |  2.0000000|
-|BMW            |  2.9692308|
+|BMW            |  2.9655172|
 |Cadillac       |  0.4137931|
 |Chevrolet      | 11.9166667|
 |Citroen        |  8.3636364|
@@ -512,7 +512,7 @@ Unique ratio: 0.2483707
 |Opel           |  8.6400000|
 |Peugeot        |  5.1724138|
 |Porsche        | 12.0000000|
-|Renault        |  4.1016949|
+|Renault        |  4.1551724|
 |Seat           | 12.1428571|
 |Skoda          |  7.9523810|
 |SsangYong      |  5.0000000|
