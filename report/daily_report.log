@@ -1,10 +1,10 @@
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 Analyse Date: 29-08-2022
 Total DF: 8
-Data Dim: 1380 x 18 
+Data Dim: 1381 x 18 
 Date Between: 22/08/2022 - 29/08/2022 
 Unique Count: 343
-Unique ratio: 0.2485507
+Unique ratio: 0.2483707
 
 
 |brand          | Count|
@@ -15,7 +15,7 @@ Unique ratio: 0.2485507
 |BAIC Motor     |     4|
 |BMW            |   260|
 |Cadillac       |    29|
-|Chevrolet      |    35|
+|Chevrolet      |    36|
 |Citroen        |    11|
 |Cupra          |    10|
 |Dacia          |    21|
@@ -60,14 +60,14 @@ Unique ratio: 0.2485507
 |Hybrid          |    45|
 |LPG             |    16|
 |Other fuel type |    24|
-|Petrol          |   634|
+|Petrol          |   635|
 |NA              |     3|
 
 
 |transmission | Count|
 |:------------|-----:|
 |Automatic    |   873|
-|Manual       |   504|
+|Manual       |   505|
 |NA           |     3|
 
 
@@ -80,7 +80,7 @@ Unique ratio: 0.2485507
 |26/08/2022 | 198|
 |27/08/2022 | 198|
 |28/08/2022 | 197|
-|29/08/2022 | 197|
+|29/08/2022 | 198|
 
 
 |model                        | Count|
@@ -184,7 +184,7 @@ Unique ratio: 0.2485507
 |M3                           |     5|
 |M550                         |     8|
 |Master                       |    17|
-|Matiz                        |    24|
+|Matiz                        |    25|
 |Megane                       |     7|
 |Micra                        |     5|
 |ML 63 AMG                    |     1|
@@ -251,7 +251,7 @@ Unique ratio: 0.2485507
 
 | year| Count|
 |----:|-----:|
-| 2009|    97|
+| 2009|    98|
 | 2010|    63|
 | 2011|    31|
 | 2012|    33|
@@ -369,7 +369,7 @@ Unique ratio: 0.2485507
 |M3                           |       83000.000|
 |M550                         |      166001.000|
 |Master                       |      115136.353|
-|Matiz                        |       94418.333|
+|Matiz                        |       93641.600|
 |Megane                       |      134900.000|
 |Micra                        |       96000.000|
 |ML 63 AMG                    |      129900.000|
@@ -442,7 +442,7 @@ Unique ratio: 0.2485507
 |BAIC Motor     |       17000.000|
 |BMW            |       54013.150|
 |Cadillac       |        7202.621|
-|Chevrolet      |       88894.829|
+|Chevrolet      |       88508.861|
 |Citroen        |      104928.545|
 |Cupra          |       16180.000|
 |Dacia          |       74063.524|
@@ -487,7 +487,7 @@ Unique ratio: 0.2485507
 |BAIC Motor     |  2.0000000|
 |BMW            |  2.9692308|
 |Cadillac       |  0.4137931|
-|Chevrolet      | 11.8857143|
+|Chevrolet      | 11.9166667|
 |Citroen        |  8.3636364|
 |Cupra          |  2.0000000|
 |Dacia          |  7.5238095|
