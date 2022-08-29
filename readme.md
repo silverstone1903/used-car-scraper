@@ -12,7 +12,7 @@ Uses rvest to scrape data from carvago.com daily. It is automated using Github A
 3. RMarkdown Reporting -> It uses concatenated raw data to report using ggplot2 and DT.
 
 
-Blog post: []() (in Turkish) <br>
+Blog post: [R ile Scraping - İkinci El Araç Verisi](https://silverstone1903.github.io/posts/2022/08/scraper-ile-ikinci-el-arac-verisi/){:target="_blank"} (in Turkish) <br>
 Daily log: [link](https://silverstone1903.github.io/used-car-scraper/report/daily_report.log) <br>
 Daily Report: [link](https://silverstone1903.github.io/used-car-scraper/report/report.html) <br>
 
