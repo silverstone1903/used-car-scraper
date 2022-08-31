@@ -1,74 +1,74 @@
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
-Analyse Date: 30-08-2022
-Total DF: 9
-Data Dim: 1579 x 18 
-Date Between: 22/08/2022 - 30/08/2022 
-Unique Count: 350
-Unique ratio: 0.2216593
+Analyse Date: 31-08-2022
+Total DF: 10
+Data Dim: 1769 x 18 
+Date Between: 22/08/2022 - 31/08/2022 
+Unique Count: 398
+Unique ratio: 0.2249859
 
 
 |brand          | Count|
 |:--------------|-----:|
-|Abarth         |     9|
-|Alfa Romeo     |    17|
-|Audi           |    93|
+|Abarth         |    10|
+|Alfa Romeo     |    18|
+|Audi           |   110|
 |BAIC Motor     |     5|
-|BMW            |   296|
-|Cadillac       |    33|
-|Chevrolet      |    42|
-|Citroen        |    12|
-|Cupra          |    13|
-|Dacia          |    24|
-|Dodge          |   158|
-|DS Automobiles |    18|
-|Fiat           |     9|
-|Ford           |    40|
+|BMW            |   331|
+|Cadillac       |    36|
+|Chevrolet      |    46|
+|Citroen        |    14|
+|Cupra          |    16|
+|Dacia          |    25|
+|Dodge          |   179|
+|DS Automobiles |    20|
+|Fiat           |    11|
+|Ford           |    42|
 |GMC            |     1|
-|Hyundai        |    33|
+|Hyundai        |    36|
 |Infiniti       |     1|
 |Isuzu          |     4|
-|Jaguar         |    10|
-|Jeep           |    27|
-|Kia            |    30|
-|Land Rover     |    14|
+|Jaguar         |    12|
+|Jeep           |    30|
+|Kia            |    36|
+|Land Rover     |    15|
 |Lexus          |    11|
-|Mazda          |    10|
-|Mercedes-Benz  |   128|
-|MG             |    36|
+|Mazda          |    12|
+|Mercedes-Benz  |   143|
+|MG             |    38|
 |MINI           |     2|
-|Nissan         |    36|
-|Opel           |    31|
-|Peugeot        |    66|
+|Nissan         |    40|
+|Opel           |    37|
+|Peugeot        |    74|
 |Porsche        |     4|
-|Renault        |    66|
-|Seat           |     9|
-|Skoda          |    24|
-|SsangYong      |     7|
+|Renault        |    76|
+|Seat           |    11|
+|Skoda          |    26|
+|SsangYong      |     8|
 |Subaru         |     4|
-|Suzuki         |    20|
-|Toyota         |    73|
-|Volkswagen     |   105|
-|Volvo          |    55|
-|NA             |     3|
+|Suzuki         |    22|
+|Toyota         |    76|
+|Volkswagen     |   120|
+|Volvo          |    62|
+|NA             |     5|
 
 
 |fuel_type       | Count|
 |:---------------|-----:|
-|CNG             |     2|
-|Diesel          |   678|
-|Electric        |    70|
-|Hybrid          |    51|
-|LPG             |    19|
-|Other fuel type |    29|
-|Petrol          |   727|
-|NA              |     3|
+|CNG             |     3|
+|Diesel          |   761|
+|Electric        |    77|
+|Hybrid          |    56|
+|LPG             |    24|
+|Other fuel type |    32|
+|Petrol          |   811|
+|NA              |     5|
 
 
 |transmission | Count|
 |:------------|-----:|
-|Automatic    |   997|
-|Manual       |   579|
-|NA           |     3|
+|Automatic    |  1116|
+|Manual       |   648|
+|NA           |     5|
 
 
 |insertdate |   n|
@@ -82,286 +82,305 @@ Unique ratio: 0.2216593
 |28/08/2022 | 197|
 |29/08/2022 | 198|
 |30/08/2022 | 198|
+|31/08/2022 | 190|
 
 
 |model                        | Count|
 |:----------------------------|-----:|
-|118                          |    13|
-|120                          |    28|
+|118                          |    14|
+|120                          |    31|
 |135                          |     6|
-|2                            |     6|
-|207                          |    10|
-|208                          |    37|
-|218                          |    31|
-|220                          |    76|
+|2                            |     7|
+|2008                         |     1|
+|206                          |     1|
+|207                          |    11|
+|208                          |    41|
+|218                          |    34|
+|220                          |    87|
 |3008                         |     1|
-|308                          |    18|
+|308                          |    19|
 |316                          |     3|
-|320                          |    12|
+|320                          |    13|
+|320 Gran Turismo             |     1|
 |330 Gran Turismo             |     2|
 |340                          |     8|
-|420                          |    11|
-|540                          |     9|
-|595                          |     8|
+|420                          |    12|
+|540                          |    11|
+|595                          |     9|
 |595 Turismo                  |     1|
-|640 Gran Turismo             |     6|
-|740                          |    26|
-|750                          |     6|
-|A 150                        |     6|
-|A 180                        |     1|
-|A 250                        |     7|
+|640 Gran Turismo             |     7|
+|740                          |    29|
+|750                          |     7|
+|A 150                        |     7|
+|A 180                        |     2|
+|A 250                        |     8|
 |A 35 AMG                     |     1|
-|A3                           |     3|
-|A5                           |    21|
+|A3                           |     5|
+|A5                           |    23|
 |A6                           |     4|
 |Acadia                       |     1|
-|Amarok                       |     2|
-|Antara                       |     6|
+|Amarok                       |     4|
+|Antara                       |     7|
 |Arteon                       |     1|
-|Astra                        |    11|
+|Astra                        |    12|
+|Ateca                        |     2|
 |Aygo                         |     2|
-|Aygo X                       |    36|
-|Berlingo                     |     5|
+|Aygo X                       |    38|
+|Berlingo                     |     6|
 |BLS                          |     1|
 |C 180                        |     7|
-|C 200                        |     9|
+|C 200                        |    10|
 |C 220                        |     4|
-|C 300                        |    27|
+|C 300                        |    30|
 |C 400                        |     7|
 |C-Crosser                    |     5|
 |C3                           |     1|
-|C3 Aircross                  |     1|
-|Caddy                        |    11|
+|C3 Aircross                  |     2|
+|Caddy                        |    16|
 |Cayenne                      |     4|
-|Challenger                   |     7|
-|Charger                      |    73|
-|CLA 200 Shooting Brake       |     9|
-|Clio                         |    17|
+|Challenger                   |     9|
+|Charger                      |    80|
+|CLA 180                      |     1|
+|CLA 200 Shooting Brake       |    10|
+|Clio                         |    19|
 |CLS 450                      |     3|
-|Compass                      |    13|
+|Compass                      |    14|
 |Cooper D Countryman          |     1|
-|Corsa                        |     3|
-|Crossland                    |     6|
-|CX-5                         |     4|
+|Corsa                        |     4|
+|Crossland                    |     8|
+|CX-5                         |     5|
 |D-Max                        |     4|
 |Discovery Sport              |     1|
 |DS3                          |     2|
-|DS7 Crossback                |    16|
+|DS7 Crossback                |    18|
 |Duster                       |    13|
-|E 200                        |     6|
-|E 220                        |    12|
+|E 200                        |     7|
+|E 220                        |    13|
 |E 300                        |     1|
 |E 350                        |     1|
-|E 450                        |     7|
+|E 400                        |     2|
+|E 450                        |     8|
 |E 63 AMG                     |     9|
+|e-NV200                      |     1|
 |Exeo                         |     1|
-|F-Pace                       |     2|
-|Fabia                        |     2|
+|F-Pace                       |     3|
+|Fabia                        |     3|
 |Forester                     |     4|
 |FX                           |     1|
-|Giulia                       |     5|
+|Giulia                       |     6|
 |Giulietta                    |     7|
-|Gladiator                    |     7|
+|Gladiator                    |     8|
 |GLB 220                      |     1|
-|GLC 300                      |     7|
+|GLC 300                      |     8|
 |GLE 350                      |     1|
-|Golf                         |     4|
-|Hilux                        |    24|
-|i10                          |    26|
-|i20                          |     3|
-|i3                           |     7|
+|Golf                         |     5|
+|Hilux                        |    25|
+|i10                          |    27|
+|i20                          |     4|
+|i3                           |     8|
 |i30                          |     4|
-|Ibiza                        |     3|
-|ID.4                         |     9|
-|Insignia                     |     4|
+|Ibiza                        |     4|
+|ID.4                         |    10|
+|Insignia                     |     5|
+|ix20                         |     1|
 |Jimny                        |     7|
 |John Cooper Works Countryman |     1|
 |Kodiaq                       |     7|
 |Koleos                       |     5|
-|Korando                      |     7|
-|Kuga                         |    18|
+|Korando                      |     8|
+|Kuga                         |    20|
 |Land Cruiser                 |    11|
 |Leaf                         |     2|
-|Leon                         |    18|
-|M135                         |     6|
+|Leon                         |    20|
+|Linea                        |     1|
+|M135                         |     7|
 |M240i                        |     1|
-|M3                           |     6|
-|M550                         |     9|
-|Master                       |    20|
-|Matiz                        |    29|
-|Megane                       |     8|
+|M3                           |     7|
+|M550                         |    10|
+|Master                       |    23|
+|Matiz                        |    32|
+|Megane                       |    11|
 |Micra                        |     5|
 |ML 63 AMG                    |     2|
 |Mondeo                       |     4|
 |Movano                       |     1|
 |Mustang Mach-E               |     7|
-|Navara                       |     7|
-|Niro                         |     2|
-|Niva                         |     5|
+|Navara                       |     8|
+|Niro                         |     3|
+|Niva                         |     6|
 |Octavia                      |     3|
-|Optima                       |     7|
+|Optima                       |     8|
 |Passat                       |     8|
 |Passat Alltrack              |     2|
-|Picanto                      |     5|
+|Picanto                      |     7|
 |Pixo                         |     7|
-|Polo                         |     9|
-|Primastar                    |     6|
-|Q2                           |    17|
-|Q3                           |    14|
-|Q5                           |    11|
-|Q8                           |     2|
-|RAM                          |    78|
+|Polo                         |    11|
+|Primastar                    |     7|
+|Q2                           |    19|
+|Q3                           |    17|
+|Q5                           |    14|
+|Q8                           |     3|
+|RAM                          |    90|
 |Range Rover Evoque           |     6|
-|Range Rover Velar            |     7|
+|Range Rover Velar            |     8|
 |Ranger                       |    11|
-|Renegade                     |     7|
-|RS3                          |    16|
-|S3                           |     3|
-|S6                           |     2|
-|Sandero                      |    10|
+|Renegade                     |     8|
+|RS3                          |    18|
+|S3                           |     4|
+|S6                           |     3|
+|S60                          |     1|
+|Sandero                      |    11|
 |Scala                        |     2|
 |Senova X55                   |     5|
 |Spark                        |     8|
 |Spring                       |     1|
 |Stelvio                      |     5|
-|Stonic                       |     7|
-|SX4 S-Cross                  |     6|
-|T-Roc                        |     9|
-|T5 Transporter               |     9|
+|Stonic                       |     8|
+|SX4 S-Cross                  |     7|
+|T-Roc                        |    10|
+|T5 Transporter               |    10|
 |Talento                      |     3|
-|Talisman                     |    16|
-|Tiguan                       |     9|
-|Tiguan Allspace              |    23|
-|Tipo                         |     6|
+|Talisman                     |    18|
+|Tiguan                       |    10|
+|Tiguan Allspace              |    24|
+|Tipo                         |     7|
 |Touareg                      |     1|
 |up!                          |     8|
 |UX                           |    11|
-|V60                          |    24|
-|V90                          |    18|
-|V90 Cross Country            |     6|
-|Vitara                       |     7|
-|X-Trail                      |     9|
-|X1                           |    26|
+|V60                          |    25|
+|V90                          |    21|
+|V90 Cross Country            |     7|
+|Vitara                       |     8|
+|X-Trail                      |    10|
+|X1                           |    29|
 |X2                           |     2|
 |X3                           |     2|
-|XC40                         |     7|
-|XCeed                        |     9|
-|XF                           |     8|
-|XT4                          |    32|
-|Yeti                         |    10|
-|ZS                           |    36|
-|NA                           |     3|
+|XC40                         |     8|
+|XCeed                        |    10|
+|XF                           |     9|
+|XT4                          |    35|
+|Yeti                         |    11|
+|ZS                           |    38|
+|NA                           |     5|
 
 
 | year| Count|
 |----:|-----:|
-| 2009|   108|
-| 2010|    72|
-| 2011|    36|
-| 2012|    37|
-| 2013|    18|
-| 2014|     9|
-| 2015|    38|
-| 2016|    36|
-| 2017|    72|
-| 2018|   150|
-| 2019|   274|
-| 2020|   255|
-| 2021|   261|
-| 2022|   210|
-|   NA|     3|
+| 2009|   123|
+| 2010|    79|
+| 2011|    43|
+| 2012|    42|
+| 2013|    19|
+| 2014|    11|
+| 2015|    42|
+| 2016|    40|
+| 2017|    80|
+| 2018|   163|
+| 2019|   307|
+| 2020|   292|
+| 2021|   293|
+| 2022|   230|
+|   NA|     5|
 
 
 |model                        | Avg. Km (Model)|
 |:----------------------------|---------------:|
-|118                          |      41016.6154|
-|120                          |      34447.0357|
+|118                          |      40657.4286|
+|120                          |      35396.8387|
 |135                          |      32800.0000|
-|2                            |     143368.0000|
-|207                          |     152940.2000|
-|208                          |      75478.2432|
-|218                          |      30685.1935|
-|220                          |      57369.9474|
+|2                            |     145701.4286|
+|2008                         |       7000.0000|
+|206                          |      94050.0000|
+|207                          |     153537.0000|
+|208                          |      74624.0000|
+|218                          |      31474.3824|
+|220                          |      57821.7356|
 |3008                         |     101759.0000|
-|308                          |     110710.1667|
+|308                          |     114093.8421|
 |316                          |      84000.0000|
-|320                          |      50486.8333|
+|320                          |      51218.5385|
+|320 Gran Turismo             |      20268.0000|
 |330 Gran Turismo             |      39825.0000|
 |340                          |      52833.6250|
-|420                          |      46820.9091|
-|540                          |      57448.6667|
-|595                          |      30495.5000|
+|420                          |      46135.8333|
+|540                          |      57971.4545|
+|595                          |      29712.8889|
 |595 Turismo                  |      26111.0000|
 |640 Gran Turismo             |      45711.0000|
-|740                          |      61907.6538|
+|740                          |      62430.9310|
 |750                          |      73600.0000|
 |A 150                        |     123500.0000|
 |A 180                        |     143000.0000|
 |A 250                        |       5863.0000|
 |A 35 AMG                     |      17900.0000|
-|A3                           |        100.0000|
-|A5                           |      15427.6190|
+|A3                           |       2549.2000|
+|A5                           |      15693.0435|
 |A6                           |      47350.0000|
 |Acadia                       |      96147.0000|
-|Amarok                       |     133500.0000|
+|Amarok                       |     124375.0000|
 |Antara                       |     123500.0000|
 |Arteon                       |      25332.0000|
-|Astra                        |     123345.8182|
+|Astra                        |     123771.1667|
+|Ateca                        |      24192.0000|
 |Aygo                         |     136200.0000|
-|Aygo X                       |      64998.8611|
+|Aygo X                       |      63343.6579|
 |Berlingo                     |      61700.0000|
 |BLS                          |     174000.0000|
 |C 180                        |     139500.0000|
 |C 200                        |     138000.0000|
 |C 220                        |      73000.0000|
-|C 300                        |      18248.4444|
+|C 300                        |      17853.6333|
 |C 400                        |       1450.0000|
 |C-Crosser                    |     144000.0000|
 |C3                           |      55571.0000|
 |C3 Aircross                  |     131843.0000|
-|Caddy                        |     114886.7273|
+|Caddy                        |     102541.2500|
 |Cayenne                      |     107115.0000|
-|Challenger                   |       8261.2857|
-|Charger                      |      23096.4384|
+|Challenger                   |       9202.6667|
+|Charger                      |      23382.5000|
+|CLA 180                      |      10000.0000|
 |CLA 200 Shooting Brake       |     174000.0000|
-|Clio                         |      17121.5294|
+|Clio                         |      16358.1579|
 |CLS 450                      |      22860.0000|
-|Compass                      |      38918.3077|
+|Compass                      |      37352.7143|
 |Cooper D Countryman          |     131262.0000|
 |Corsa                        |     121000.0000|
-|Crossland                    |       6947.0000|
-|CX-5                         |     104436.5000|
+|Crossland                    |       7365.0000|
+|CX-5                         |     111425.2000|
 |D-Max                        |       1000.0000|
 |Discovery Sport              |      61504.0000|
 |DS3                          |      58850.0000|
-|DS7 Crossback                |      12685.0000|
+|DS7 Crossback                |      12747.7778|
 |Duster                       |      66530.7692|
-|E 200                        |     114666.6667|
-|E 220                        |      31321.6667|
+|E 200                        |     115571.4286|
+|E 220                        |      30935.3846|
 |E 300                        |      17200.0000|
 |E 350                        |      67161.0000|
-|E 450                        |      33508.0000|
+|E 400                        |      37607.0000|
+|E 450                        |      31974.5000|
 |E 63 AMG                     |      50000.0000|
+|e-NV200                      |       1500.0000|
 |Exeo                         |     118000.0000|
 |F-Pace                       |      83800.0000|
-|Fabia                        |     165800.0000|
+|Fabia                        |     157200.0000|
 |Forester                     |      48300.0000|
 |FX                           |     114850.0000|
-|Giulia                       |      69472.6000|
+|Giulia                       |      68310.5000|
 |Giulietta                    |      13643.0000|
 |Gladiator                    |       5500.0000|
 |GLB 220                      |      38000.0000|
 |GLC 300                      |     100000.0000|
 |GLE 350                      |      69700.0000|
-|Golf                         |      27370.0000|
-|Hilux                        |      36093.2500|
-|i10                          |     134152.7308|
-|i20                          |      96457.6667|
+|Golf                         |      56242.0000|
+|Hilux                        |      39441.6400|
+|i10                          |     134739.6667|
+|i20                          |      99468.2500|
 |i3                           |       6000.0000|
 |i30                          |     110000.0000|
 |Ibiza                        |      52388.0000|
-|ID.4                         |       7316.6667|
-|Insignia                     |     127273.5000|
+|ID.4                         |       7235.0000|
+|Insignia                     |     131818.8000|
+|ix20                         |      82000.0000|
 |Jimny                        |       5000.0000|
 |John Cooper Works Countryman |      15800.0000|
 |Kodiaq                       |      90452.0000|
@@ -370,14 +389,15 @@ Unique ratio: 0.2216593
 |Kuga                         |      52386.5000|
 |Land Cruiser                 |      13144.2727|
 |Leaf                         |        896.0000|
-|Leon                         |      53500.0000|
+|Leon                         |      50530.0000|
+|Linea                        |      51995.0000|
 |M135                         |      21000.0000|
 |M240i                        |      13150.0000|
 |M3                           |      83000.0000|
 |M550                         |     166001.0000|
-|Master                       |     122048.1000|
-|Matiz                        |      93942.2414|
-|Megane                       |     134900.0000|
+|Master                       |     127156.7826|
+|Matiz                        |      93576.4062|
+|Megane                       |     130759.7273|
 |Micra                        |      96000.0000|
 |ML 63 AMG                    |     129900.0000|
 |Mondeo                       |     155500.0000|
@@ -390,23 +410,24 @@ Unique ratio: 0.2216593
 |Optima                       |      51000.0000|
 |Passat                       |     100973.2500|
 |Passat Alltrack              |      19500.0000|
-|Picanto                      |     109560.0000|
+|Picanto                      |     112200.0000|
 |Pixo                         |      84004.0000|
-|Polo                         |     100309.2222|
+|Polo                         |     103621.5455|
 |Primastar                    |       8000.0000|
-|Q2                           |      32228.2353|
-|Q3                           |      15617.7143|
-|Q5                           |      73230.0000|
+|Q2                           |      32267.3684|
+|Q3                           |      19329.2941|
+|Q5                           |      68218.5714|
 |Q8                           |      58000.0000|
-|RAM                          |      20769.6410|
+|RAM                          |      20596.8222|
 |Range Rover Evoque           |      71000.0000|
 |Range Rover Velar            |      66550.0000|
 |Ranger                       |        816.3636|
 |Renegade                     |      28415.0000|
-|RS3                          |      27512.5000|
-|S3                           |       9250.6667|
+|RS3                          |      27555.5556|
+|S3                           |       7469.5000|
 |S6                           |      32589.0000|
-|Sandero                      |      94033.4000|
+|S60                          |      77099.0000|
+|Sandero                      |      89212.1818|
 |Scala                        |      40000.0000|
 |Senova X55                   |      17000.0000|
 |Spark                        |     111165.0000|
@@ -417,117 +438,117 @@ Unique ratio: 0.2216593
 |T-Roc                        |       4900.0000|
 |T5 Transporter               |      94000.0000|
 |Talento                      |      70000.0000|
-|Talisman                     |      77578.8125|
-|Tiguan                       |      66309.0000|
-|Tiguan Allspace              |      40293.9130|
+|Talisman                     |      78238.3333|
+|Tiguan                       |      75658.2000|
+|Tiguan Allspace              |      40794.1667|
 |Tipo                         |       3800.0000|
 |Touareg                      |      29944.0000|
 |up!                          |      56114.2500|
 |UX                           |      18024.4545|
-|V60                          |      67491.2500|
-|V90                          |      63563.3333|
-|V90 Cross Country            |      42796.6667|
+|V60                          |      70271.6000|
+|V90                          |      63074.2857|
+|V90 Cross Country            |      39427.1429|
 |Vitara                       |      77780.0000|
 |X-Trail                      |      39000.0000|
-|X1                           |      72121.6538|
+|X1                           |      72288.6897|
 |X2                           |      73259.0000|
 |X3                           |       7010.0000|
 |XC40                         |     104000.0000|
 |XCeed                        |      19500.0000|
 |XF                           |      83876.0000|
-|XT4                          |       2015.5625|
-|Yeti                         |     117026.6000|
-|ZS                           |       2876.3333|
+|XT4                          |       2660.5714|
+|Yeti                         |     116330.5455|
+|ZS                           |       2856.5263|
 |NA                           |             NaN|
 
 
 |brand          | Avg. Km (Brand)|
 |:--------------|---------------:|
-|Abarth         |       30008.333|
-|Alfa Romeo     |       26609.353|
-|Audi           |       29407.183|
+|Abarth         |       29352.700|
+|Alfa Romeo     |       28603.278|
+|Audi           |       29613.355|
 |BAIC Motor     |       17000.000|
-|BMW            |       53825.824|
-|Cadillac       |        7227.212|
-|Chevrolet      |       88036.905|
-|Citroen        |      101326.167|
-|Cupra          |       16961.538|
-|Dacia          |       75226.417|
-|Dodge          |       21290.513|
-|DS Automobiles |       17814.444|
-|Fiat           |       25866.667|
-|Ford           |       39672.175|
+|BMW            |       54221.795|
+|Cadillac       |        7420.000|
+|Chevrolet      |       86618.500|
+|Citroen        |      100675.500|
+|Cupra          |       17905.250|
+|Dacia          |       73857.360|
+|Dodge          |       21268.927|
+|DS Automobiles |       17358.000|
+|Fiat           |       26235.909|
+|Ford           |       40277.619|
 |GMC            |       96147.000|
-|Hyundai        |      127798.303|
+|Hyundai        |      126606.778|
 |Infiniti       |      114850.000|
 |Isuzu          |        1000.000|
-|Jaguar         |       83860.800|
-|Jeep           |       27531.222|
-|Kia            |       41257.833|
-|Land Rover     |       68096.714|
+|Jaguar         |       83857.000|
+|Jeep           |       26475.267|
+|Kia            |       44050.139|
+|Land Rover     |       67993.600|
 |Lexus          |       18024.455|
-|Mazda          |      127795.400|
-|Mercedes-Benz  |       66337.156|
-|MG             |        2876.333|
+|Mazda          |      131419.667|
+|Mercedes-Benz  |       66238.979|
+|MG             |        2856.526|
 |MINI           |       73531.000|
-|Nissan         |       55295.417|
-|Opel           |       98043.194|
-|Peugeot        |       97221.803|
+|Nissan         |       52842.000|
+|Opel           |       96743.973|
+|Peugeot        |       96203.824|
 |Porsche        |      107115.000|
-|Renault        |       82158.924|
-|Seat           |      113073.778|
-|Skoda          |      107699.167|
+|Renault        |       84895.500|
+|Seat           |      100004.727|
+|Skoda          |      109005.769|
 |SsangYong      |       92400.000|
 |Subaru         |       48300.000|
-|Suzuki         |       59873.000|
-|Toyota         |       49632.658|
-|Volkswagen     |       60699.848|
-|Volvo          |       68158.364|
+|Suzuki         |       62647.273|
+|Toyota         |       50132.724|
+|Volkswagen     |       64226.458|
+|Volvo          |       68813.532|
 |NA             |             NaN|
 
 
 |brand          |   Avg. Age|
 |:--------------|----------:|
-|Abarth         |  1.5555556|
-|Alfa Romeo     |  2.7058824|
-|Audi           |  2.8279570|
+|Abarth         |  1.5000000|
+|Alfa Romeo     |  2.7222222|
+|Audi           |  2.7727273|
 |BAIC Motor     |  2.0000000|
-|BMW            |  2.9594595|
-|Cadillac       |  0.3939394|
-|Chevrolet      | 11.8571429|
-|Citroen        |  8.0833333|
+|BMW            |  2.9546828|
+|Cadillac       |  0.3888889|
+|Chevrolet      | 11.7826087|
+|Citroen        |  7.5714286|
 |Cupra          |  2.0000000|
-|Dacia          |  7.4583333|
-|Dodge          |  1.9620253|
-|DS Automobiles |  2.1111111|
-|Fiat           |  1.0000000|
-|Ford           |  2.3750000|
+|Dacia          |  7.6400000|
+|Dodge          |  1.9608939|
+|DS Automobiles |  2.0000000|
+|Fiat           |  1.8181818|
+|Ford           |  2.4285714|
 |GMC            | 11.0000000|
-|Hyundai        | 12.4242424|
+|Hyundai        | 12.3888889|
 |Infiniti       | 13.0000000|
 |Isuzu          |  0.0000000|
 |Jaguar         |  4.0000000|
-|Jeep           |  1.8888889|
-|Kia            |  3.7666667|
-|Land Rover     |  5.7857143|
+|Jeep           |  1.8000000|
+|Kia            |  4.0555556|
+|Land Rover     |  5.6000000|
 |Lexus          |  1.6363636|
-|Mazda          |  7.6000000|
-|Mercedes-Benz  |  4.5781250|
+|Mazda          |  7.5833333|
+|Mercedes-Benz  |  4.5594406|
 |MG             |  0.0000000|
 |MINI           |  5.5000000|
-|Nissan         |  5.9722222|
-|Opel           |  8.0322581|
-|Peugeot        |  5.1818182|
+|Nissan         |  5.6250000|
+|Opel           |  7.8108108|
+|Peugeot        |  5.2297297|
 |Porsche        | 12.0000000|
-|Renault        |  4.2272727|
-|Seat           | 11.6666667|
-|Skoda          |  8.0833333|
+|Renault        |  4.4473684|
+|Seat           | 10.5454545|
+|Skoda          |  8.3846154|
 |SsangYong      |  5.0000000|
 |Subaru         |  2.7500000|
-|Suzuki         |  4.2000000|
-|Toyota         |  3.3150685|
-|Volkswagen     |  4.2095238|
-|Volvo          |  3.1454545|
+|Suzuki         |  4.3636364|
+|Toyota         |  3.2763158|
+|Volkswagen     |  4.4833333|
+|Volvo          |  3.2096774|
 |NA             |        NaN|
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
