@@ -1,6 +1,17 @@
 ## R Scraper for Used Cars Data 
 <br>
 
+<p style="text-align:center">
+<img src="https://rvest.tidyverse.org/logo.png" width="150">
+<img src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4" width="150">
+<img src="https://miro.medium.com/max/455/1*hIKOiyXm7YjTXxFFlcTutQ.png" width="150" >
+<img src="https://static.us-east-1.prod.workshops.aws/public/5c8f3571-1c42-459e-928f-59e5cfe48683/static/images/storage/s3-icon.png" width="150" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Amazon_Lambda_architecture_logo.svg/1200px-Amazon_Lambda_architecture_logo.svg.png" width="150" >
+
+</p>
+<br>
+
+
 [![Scraper](https://github.com/silverstone1903/used-car-scraper/actions/workflows/workflow.yml/badge.svg)](https://github.com/silverstone1903/used-car-scraper/actions/workflows/workflow.yml)
 
 <br>
