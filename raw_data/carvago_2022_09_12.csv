@@ -1,0 +1,200 @@
+"brand","model","color","price","km","year","transmission","eng_power","eng_capacity","fuel_type","consumption","drive_type","location","link","insertdate"
+"Peugeot","308","Black","2999","136039km","7/2009","Automatic","104 kW (141 hp)","1598cc","Petrol","8.2 l/100km","4x2","Netherlands","https://carvago.com/car/51826481/peugeot-308-sw-xt-1-6-thp-104-kw",2022-09-12
+"Opel","Mokka","White","28899","10800km","1/2021","Automatic","96 kW (131 hp)","1199cc","Petrol","5 l/100km","4x2","Poland","https://carvago.com/car/51809820/opel-mokka-1-2-s-s-ultimate-96-kw",2022-09-12
+"Skoda","Kodiaq","Black","35799","86208km","2/2019","Automatic","140 kW (190 hp)","1984cc","Petrol","6.7 l/100km","4x4","Germany","https://carvago.com/car/51632869/skoda-kodiaq-2-0-tsi-act-4x4-dsg-style-140-kw",2022-09-12
+"Opel","Crossland X","Orange","15899","69000km","8/2017","Manual","88 kW (120 hp)","15600cc","Diesel","4 l/100km","4x2","Germany","https://carvago.com/car/51680313/opel-crossland-x-diesel-innovation-88-kw",2022-09-12
+"Volkswagen","T-Roc","White","35749","5400km","5/2022","Manual","110 kW (150 hp)","14980cc","Petrol","6.6 l/100km","4x2","Germany","https://carvago.com/car/50091982/volkswagen-t-roc-tsi-110-kw",2022-09-12
+"Ford","Fusion","Black","5599","85000km","10/2009","Manual","59 kW (80 hp)","1388cc","Petrol","6.5 l/100km","4x2","Germany","https://carvago.com/car/50023756/ford-fusion-1-4-style-59-kw",2022-09-12
+"Citroen","C3","Other interior color","10149","91665km","7/2017","Manual","75 kW (102 hp)","1600cc","Diesel","3 l/100km","4x2","France","https://carvago.com/car/51809938/citroen-c3-100-s-s-feel-75-kw",2022-09-12
+"Kia","XCeed","Silver","24649","19500km","10/2020","Manual","103 kW (140 hp)","13534cc","Petrol","6.2 l/100km","4x2","Germany","https://carvago.com/car/50175449/kia-xceed-103-kw",2022-09-12
+"BMW","550","Yellow","19549","113500km","3/2012","Automatic","300 kW (408 hp)","4395cc","Petrol","11 l/100km","4x4","Germany","https://carvago.com/car/51822200/bmw-550-i-xdrive-automatic-300-kw",2022-09-12
+"Dodge","RAM","Black","36899","14100km","1/2019","Automatic","295 kW (401 hp)","5654cc","Petrol","4x2",NA,"Poland","https://carvago.com/car/51053584/dodge-ram-quad-cab-295-kw",2022-09-12
+"Dodge","RAM","Grey","63149","14190km","8/2021","Automatic","295 kW (401 hp)","5654cc","LPG","4x4",NA,"Netherlands","https://carvago.com/car/51552411/dodge-ram-sport-295-kw",2022-09-12
+"Opel","Astra","Blue","3899","110000km","3/2009","Manual","66 kW (90 hp)","1364cc","Petrol","6 l/100km","4x2","Germany","https://carvago.com/car/50098203/opel-astra-1-4-66-kw",2022-09-12
+"Seat","Tarraco","Grey","25399","30000km","5/2021","Automatic","110 kW (150 hp)","1968cc","Diesel","4.6 l/100km","4x2","Italy","https://carvago.com/car/51826140/seat-tarraco-2-0-tdi-scr-style-110-kw",2022-09-12
+"Dodge","RAM","Black","66999","308km","2/2022","Automatic","295 kW (401 hp)","5654cc","LPG","4x4",NA,"Netherlands","https://carvago.com/car/50034520/dodge-ram-295-kw",2022-09-12
+"Renault","Clio","Grey","3849","173679km","12/2009","Manual","72 kW (98 hp)","1395cc","Petrol","5.6 l/100km","4x2","Germany","https://carvago.com/car/50042331/renault-clio-estate-tce-100-72-kw",2022-09-12
+"Toyota","Tundra","Grey","52199","400km","11/2020","Automatic","284 kW (386 hp)","5663cc","Petrol","4x4",NA,"Germany","https://carvago.com/car/51823395/toyota-tundra-5-7-v8-4x4-284-kw",2022-09-12
+"Dodge","RAM","White","37949","56481km","1/2019","Automatic","287 kW (390 hp)","5654cc","LPG","4x4",NA,"Poland","https://carvago.com/car/46410112/dodge-ram-287-kw",2022-09-12
+"Dacia","Sandero","Blue","2899","124225km","3/2009","Manual","55 kW (75 hp)","1390cc","Petrol","7 l/100km","4x2","Germany","https://carvago.com/car/50033162/dacia-sandero-1-4-mpi-55-kw",2022-09-12
+"Skoda","Fabia","Grey","3599","116818km","8/2009","Manual","44 kW (60 hp)","1198cc","Petrol","5.9 l/100km","4x2","Germany","https://carvago.com/car/50282652/skoda-fabia-1-2-htp-44-kw",2022-09-12
+"Dodge","RAM","Black","58399","400km","5/2021","Automatic","295 kW (401 hp)","5700cc","Petrol","14.2 l/100km","4x4","Germany","https://carvago.com/car/49563338/dodge-ram-295-kw",2022-09-12
+"Citroen","C3","Other interior color","11649","60690km","12/2017","Manual","56 kW (76 hp)","1560cc","Diesel","3 l/100km","4x2","France","https://carvago.com/car/50362441/citroen-c3-75-s-s-83g-feel-56-kw",2022-09-12
+"Fiat","Grande Punto","Blue","2799","146000km","5/2009","Manual","48 kW (65 hp)","1242cc","Petrol","5.9 l/100km","4x2","Germany","https://carvago.com/car/51252657/fiat-grande-punto-1-2-8v-active-48-kw",2022-09-12
+"Ford","Mondeo","Silver","4849","159000km","7/2009","Manual","81 kW (110 hp)","1596cc","Petrol","7.2 l/100km","4x2","Germany","https://carvago.com/car/51523033/ford-mondeo-1-6-ti-vct-81-kw",2022-09-12
+"Land Rover","Range Rover Sport","White","25099","106850km","7/2013","Automatic","276 kW (375 hp)","4999cc","Petrol","12.8 l/100km","4x4","Germany","https://carvago.com/car/51821224/land-rover-range-rover-sport-hse-276-kw",2022-09-12
+"Peugeot","208","Black","11899","31543km","2/2019","Manual","50 kW (68 hp)","1199cc","Petrol","4.6 l/100km","4x2","France","https://carvago.com/car/51710270/peugeot-208-68-50-kw",2022-09-12
+"Dodge","RAM","Black","40849","34200km","2/2020","Automatic","295 kW (401 hp)","5700cc","Petrol","4x4",NA,"Germany","https://carvago.com/car/48031646/dodge-ram-295-kw",2022-09-12
+"BMW","120","Black","34499","18000km","5/2021","Automatic","140 kW (190 hp)","1995cc","Diesel","4.3 l/100km","4x2","Italy","https://carvago.com/car/50998226/bmw-120-140-kw",2022-09-12
+"Chevrolet","Spark","Black","2999","111165km","4/2010","Manual","60 kW (82 hp)","1206cc","Petrol","5.1 l/100km","4x2","Germany","https://carvago.com/car/50348330/chevrolet-spark-1-2-60-kw",2022-09-12
+"Volkswagen","Caddy","Brown","15799","97109km","3/2017","Manual","75 kW (102 hp)","1968cc","Diesel","5 l/100km","4x2","France","https://carvago.com/car/50485026/volkswagen-caddy-2-0-tdi-75-kw",2022-09-12
+"Dodge","Charger","Red","43849","36000km","6/2020","Automatic","362 kW (492 hp)","6417cc","Petrol","4x2",NA,"Germany","https://carvago.com/car/51171342/dodge-charger-362-kw",2022-09-12
+"Toyota","Hilux","White","20449","24570km","4/2016","Manual","106 kW (144 hp)","2494cc","Diesel","7.3 l/100km","4x4","Germany","https://carvago.com/car/51584386/toyota-hilux-d-cab-2-5-4d-f-4wd-106-kw",2022-09-12
+"Fiat","Talento","White","17749","70000km","12/2019","Manual","92 kW (125 hp)","1598cc","Diesel","6 l/100km","4x2","Germany","https://carvago.com/car/49874380/fiat-talento-l2h1-sx-92-kw",2022-09-12
+"Volkswagen","Passat Alltrack","Grey","23599","15860km","6/2017","Automatic","177 kW (241 hp)","1968cc","Diesel","6 l/100km","4x4","Sweden","https://carvago.com/car/51820388/volkswagen-passat-alltrack-177-kw",2022-09-12
+"Kia","Sportage","Grey","47949","10000km","1/2022","Automatic","132 kW (179 hp)","15985cc","Petrol","6 l/100km","4x4","Germany","https://carvago.com/car/49345609/kia-sportage-awd-dct-132-kw",2022-09-12
+"Audi","A3","Black","26299","11860km","1/2020","Automatic","140 kW (190 hp)","1984cc","Petrol","6 l/100km","4x2","Poland","https://carvago.com/car/51160015/audi-a3-2-0-tfsi-140-kw",2022-09-12
+"Citroen","C3","Other interior color","11999","47143km","12/2018","Manual","61 kW (83 hp)","1199cc","Petrol","5 l/100km","4x2","France","https://carvago.com/car/51808456/citroen-c3-82-s-s-feel-61-kw",2022-09-12
+"BMW","118","White","30049","35988km","7/2021","Automatic","100 kW (136 hp)","15000cc","Petrol","4 l/100km","4x2","Belgium","https://carvago.com/car/51225396/bmw-118-i-100-kw",2022-09-12
+"BMW","118","Other interior color","24349","24500km","8/2020","Automatic","112 kW (152 hp)","1995cc","Diesel","4 l/100km","4x2","France","https://carvago.com/car/49027638/bmw-118-d-112-kw",2022-09-12
+"Alfa Romeo","Giulia","Silver","27449","13600km","1/2019","Automatic","206 kW (280 hp)","1995cc","Petrol","7 l/100km","4x4","Poland","https://carvago.com/car/51742175/alfa-romeo-giulia-2-0-turbo-16v-veloce-ti-206-kw",2022-09-12
+"Volvo","XC90","Brown","39299","167000km","1/2018","Automatic","174 kW (237 hp)","1969cc","Diesel","6 l/100km","4x4","Sweden","https://carvago.com/car/51661322/volvo-xc90-d5-awd-inscription-174-kw",2022-09-12
+"Seat","Leon","Grey","21549","30000km","1/2021","Automatic","110 kW (150 hp)","1968cc","Diesel","3.8 l/100km","4x2","Italy","https://carvago.com/car/51820611/seat-leon-st-2-0-tdi-dpf-dsg-style-110-kw",2022-09-12
+"Dacia","Sandero","White","3599","41000km","7/2010","Manual","55 kW (75 hp)","1390cc","Petrol","7 l/100km","4x2","Germany","https://carvago.com/car/51201425/dacia-sandero-1-4-mpi-55-kw",2022-09-12
+"BMW","X2","Black","37299","7896km","9/2021","Automatic","140 kW (190 hp)","1995cc","Diesel","4.6 l/100km","4x4","Germany","https://carvago.com/car/51816462/bmw-x2-140-kw",2022-09-12
+"Volkswagen","Tiguan","Black","27349","66309km","4/2018","Manual","92 kW (125 hp)","13950cc","Petrol","5 l/100km","4x2","Belgium","https://carvago.com/car/50894321/volkswagen-tiguan-tsi-92-kw",2022-09-12
+"Audi","Q5","White","43699","34000km","1/2021","Automatic","150 kW (204 hp)","1968cc","Diesel","6 l/100km","4x4","Poland","https://carvago.com/car/51644273/audi-q5-40-tdi-quattro-s-tronic-s-line-150-kw",2022-09-12
+"Toyota","Aygo","Red","3899","136200km","7/2009","Manual","50 kW (68 hp)","998cc","Petrol","4.6 l/100km","4x2","Germany","https://carvago.com/car/50039141/toyota-aygo-50-kw",2022-09-12
+"Volkswagen","Amarok","Grey","21499","133500km","9/2012","Automatic","132 kW (179 hp)","1968cc","Diesel","8 l/100km","4x4","Germany","https://carvago.com/car/50042622/volkswagen-amarok-2-0-bitdi-4motion-automatic-bluemotion-technology-132-kw",2022-09-12
+"Dodge","Charger","Red","43949","36000km","5/2020","Automatic","362 kW (492 hp)","6417cc","Petrol","4x2",NA,"Germany","https://carvago.com/car/51158810/dodge-charger-362-kw",2022-09-12
+"Chevrolet","Matiz","White","3099","113165km","9/2009","Manual","38 kW (52 hp)","796cc","Petrol","5.2 l/100km","4x2","Germany","https://carvago.com/car/50430342/chevrolet-matiz-0-8-s-38-kw",2022-09-12
+"Skoda","Yeti","White","9399","151082km","10/2013","Manual","103 kW (140 hp)","1968cc","Diesel","6 l/100km","4x4","Germany","https://carvago.com/car/51590027/skoda-yeti-2-0-tdi-103-kw",2022-09-12
+"Suzuki","Vitara","Grey","13999","77780km","11/2017","Automatic","103 kW (140 hp)","1373cc","Petrol","5.2 l/100km","4x4","Germany","https://carvago.com/car/51457885/suzuki-vitara-103-kw",2022-09-12
+"Mercedes-Benz","C 300","Red","39449","7833km","7/2020","Automatic","190 kW (258 hp)","1991cc","Hybrid","6.2 l/100km","4x2","Germany","https://carvago.com/car/51655761/mercedes-benz-c-300-190-kw",2022-09-12
+"Maserati","Levante","White","56349","28200km","3/2017","Automatic","316 kW (430 hp)","2979cc","Petrol","4x4",NA,"France","https://carvago.com/car/51822760/maserati-levante-316-kw",2022-09-12
+"Dodge","Charger","Purple","57499","4000km","3/2021","Automatic","362 kW (492 hp)","6417cc","Petrol","4x2",NA,"Germany","https://carvago.com/car/51140892/dodge-charger-362-kw",2022-09-12
+"Chevrolet","Spark","Green","3249","133000km","9/2011","Manual","50 kW (68 hp)","995cc","Petrol","5.1 l/100km","4x2","Germany","https://carvago.com/car/51069074/chevrolet-spark-1-0-ls-50-kw",2022-09-12
+"Audi","A6","Grey","51099","32500km","7/2020","Automatic","210 kW (286 hp)","2967cc","Diesel","6 l/100km","4x4","Germany","https://carvago.com/car/51219202/audi-a6-avant-50-tdi-quattro-210-kw",2022-09-12
+"Peugeot","208","Red","13299","74142km","11/2020","Manual","74 kW (101 hp)","1499cc","Diesel","3.5 l/100km","4x2","France","https://carvago.com/car/50650754/peugeot-208-100-active-74-kw",2022-09-12
+"Citroen","C3","White","9349","119000km","5/2019","Manual","75 kW (102 hp)","1499cc","Diesel","3.3 l/100km","4x2","Italy","https://carvago.com/car/51829279/citroen-c3-100-s-s-feel-75-kw",2022-09-12
+"Dodge","RAM","Grey","44999","21000km","3/2020","Automatic","295 kW (401 hp)","5654cc","Petrol","4x4",NA,"Germany","https://carvago.com/car/51060781/dodge-ram-295-kw",2022-09-12
+"Skoda","Yeti","Grey","6849","160000km","7/2009","Manual","118 kW (160 hp)","1798cc","Petrol","8 l/100km","4x4","Germany","https://carvago.com/car/51765966/skoda-yeti-1-8-tsi-118-kw",2022-09-12
+"Opel","Crossland","Black","28349","999km","8/2022","Automatic","96 kW (131 hp)","1199cc","Petrol","5 l/100km","4x2","Belgium","https://carvago.com/car/51826099/opel-crossland-1-2i-turbo-96-kw",2022-09-12
+"Porsche","Macan","Grey","61699","3680km","1/2022","Automatic","195 kW (265 hp)","1984cc","Petrol","8 l/100km","4x4","Poland","https://carvago.com/car/51709282/porsche-macan-195-kw",2022-09-12
+"Dodge","Charger","Black","35149","38500km","6/2019","Automatic","280 kW (381 hp)","5654cc","Petrol","4x2",NA,"Germany","https://carvago.com/car/51144329/dodge-charger-280-kw",2022-09-12
+"Mercedes-Benz","C 300","Black","73199","18000km","8/2021","Automatic","195 kW (265 hp)","1993cc","Diesel","5.1 l/100km","4x2","Germany","https://carvago.com/car/47823292/mercedes-benz-c-300-195-kw",2022-09-12
+"Suzuki","SX4 S-Cross","Silver","9899","103000km","8/2015","Automatic","88 kW (120 hp)","1586cc","Petrol","6 l/100km","4x2","Germany","https://carvago.com/car/51589788/suzuki-sx4-s-cross-1-6-vvt-cvt-88-kw",2022-09-12
+"Dodge","RAM","Other interior color","40849","69000km","6/2019","Manual","295 kW (401 hp)",NA,"Petrol","4x2",NA,"Italy","https://carvago.com/car/51208240/dodge-ram-quad-cab-295-kw",2022-09-12
+"Skoda","Fabia","Blue","3799","156000km","12/2009","Manual","63 kW (86 hp)","1390cc","Petrol","6.5 l/100km","4x2","Germany","https://carvago.com/car/51483904/skoda-fabia-1-4-16v-63-kw",2022-09-12
+"Hyundai","i10","Silver","5299","93000km","3/2012","Manual","51 kW (69 hp)","5.8l/100km(city)","Petrol","4.7 l/100km","4x2","Germany","https://carvago.com/car/51767381/hyundai-i10-51-kw",2022-09-12
+"BMW","220","Silver","25149","69988km","9/2019","Automatic","140 kW (190 hp)","1995cc","Diesel","4.6 l/100km","4x2","Germany","https://carvago.com/car/48348294/bmw-220-140-kw",2022-09-12
+"Citroen","Berlingo","Black","6899","101850km","10/2009","Manual","80 kW (109 hp)","1587cc","Petrol","8.4 l/100km","4x2","Germany","https://carvago.com/car/51432291/citroen-berlingo-1-6-16v-multispace-80-kw",2022-09-12
+"BMW","M3","Grey","56999","34215km","9/2021","Automatic","275 kW (374 hp)","2998cc","Petrol","7.1 l/100km","4x4","Germany","https://carvago.com/car/51420452/bmw-m3-275-kw",2022-09-12
+"Peugeot","Expert","Grey","12049","108024km","1/2016","Manual","94 kW (128 hp)","1997cc","Diesel","7 l/100km","4x2","Netherlands","https://carvago.com/car/51130570/peugeot-expert-94-kw",2022-09-12
+"Kia","Picanto","Black","3149","156590km","6/2009","Manual","48 kW (65 hp)","1086cc","Petrol","5 l/100km","4x2","Germany","https://carvago.com/car/51678945/kia-picanto-1-1-48-kw",2022-09-12
+"Renault","Clio","Grey","15599","13884km","11/2019","Manual","66 kW (90 hp)","14641cc","Diesel","6 l/100km","4x2","Belgium","https://carvago.com/car/48302236/renault-clio-dci-85-business-66-kw",2022-09-12
+"BMW","X1","White","33849","30600km","3/2019","Automatic","140 kW (190 hp)","1995cc","Diesel","4.8 l/100km","4x4","Germany","https://carvago.com/car/49973227/bmw-x1-20d-140-kw",2022-09-12
+"Toyota","Aygo X","White","14199","3670km","1/2022","Manual","53 kW (72 hp)","998cc","Petrol","4 l/100km","4x2","Austria","https://carvago.com/car/50310651/toyota-aygo-x-1-0-53-kw",2022-09-12
+"BMW","320","Black","57799","0km","6/2022","Automatic","140 kW (190 hp)","1995cc","Diesel","4.5 l/100km","4x4","Germany","https://carvago.com/car/51319847/bmw-320-d-touring-xdrive-sport-line-140-kw",2022-09-12
+"Volvo","V90","Black","27699","52290km","4/2019","Automatic","140 kW (190 hp)","1969cc","Diesel","5 l/100km","4x4","Sweden","https://carvago.com/car/51139556/volvo-v90-d4-awd-momentum-140-kw",2022-09-12
+"Audi","A5","White","46799","29900km","11/2020","Automatic","210 kW (286 hp)","2967cc","Diesel","5.9 l/100km","4x4","Germany","https://carvago.com/car/51592918/audi-a5-210-kw",2022-09-12
+"MG","ZS","Black","30499","2500km","4/2022","Automatic","130 kW (177 hp)","2497cc","Electric","4x2",NA,"Germany","https://carvago.com/car/50582680/mg-zs-130-kw",2022-09-12
+"Skoda","Superb","Black","29849","47180km","7/2019","Manual","140 kW (190 hp)","1968cc","Diesel","5.2 l/100km","4x4","Germany","https://carvago.com/car/49854676/skoda-superb-2-0-tdi-4x4-ambition-140-kw",2022-09-12
+"Toyota","Land Cruiser","Grey","47549","250km","3/2022","Manual","150 kW (204 hp)","2755cc","Diesel","7 l/100km","4x2","France","https://carvago.com/car/50915339/toyota-land-cruiser-150-kw",2022-09-12
+"BMW","220","Silver","22199","88599km","9/2019","Automatic","140 kW (190 hp)","1995cc","Diesel","4.6 l/100km","4x2","Germany","https://carvago.com/car/49504870/bmw-220-140-kw",2022-09-12
+"BMW","220","Blue","28399","39900km","4/2020","Automatic","140 kW (190 hp)","1995cc","Diesel","5 l/100km","4x2","Germany","https://carvago.com/car/51491425/bmw-220-140-kw",2022-09-12
+"Cadillac","XT4","Grey","39399","0km","8/2022","Automatic","169 kW (230 hp)","1995cc","Petrol","8.8 l/100km","4x4","Germany","https://carvago.com/car/51676238/cadillac-xt4-350t-awd-169-kw",2022-09-12
+"BMW","740","Grey","73099","49139km","3/2019","Automatic","235 kW (320 hp)","2993cc","Diesel","5.3 l/100km","4x4","Germany","https://carvago.com/car/48725451/bmw-740-d-xdrive-235-kw",2022-09-12
+"Volvo","V90","Brown","31399","54560km","9/2020","Automatic","140 kW (190 hp)","1969cc","Diesel","5 l/100km","4x2","Sweden","https://carvago.com/car/49397123/volvo-v90-d4-momentum-140-kw",2022-09-12
+"BMW","220","Grey","24649","47600km","11/2019","Automatic","140 kW (190 hp)","1995cc","Diesel","4.4 l/100km","4x2","Germany","https://carvago.com/car/50808737/bmw-220-140-kw",2022-09-12
+"Mercedes-Benz","E 220","Black","25699","133000km","5/2017","Automatic","143 kW (194 hp)","1950cc","Diesel","4.9 l/100km","4x4","Germany","https://carvago.com/car/51502731/mercedes-benz-e-220-d-4matic-t-all-terrain-9g-tronic-143-kw",2022-09-12
+"Audi","A4 Allroad","Black","46299","34100km","2/2020","Automatic","210 kW (286 hp)","2967cc","Diesel","6.1 l/100km","4x4","Germany","https://carvago.com/car/51710560/audi-a4-allroad-210-kw",2022-09-12
+"BMW","X1","Black","33549","36409km","1/2021","Automatic","110 kW (150 hp)","1995cc","Diesel","4.3 l/100km","4x2","Italy","https://carvago.com/car/50819016/bmw-x1-110-kw",2022-09-12
+"Jeep","Renegade","Other interior color","26149","28415km","8/2021","Manual","96 kW (131 hp)","1598cc","Diesel","4.8 l/100km","4x2","Spain","https://carvago.com/car/51013474/jeep-renegade-96-kw",2022-09-12
+"MG","ZS","Red","30499","2500km","4/2022","Automatic","130 kW (177 hp)","2497cc","Electric","4x2",NA,"Germany","https://carvago.com/car/50558842/mg-zs-130-kw",2022-09-12
+"Audi","Q2","Blue","31999","52400km","5/2020","Automatic","110 kW (150 hp)","1968cc","Diesel","5.1 l/100km","4x4","Germany","https://carvago.com/car/50903812/audi-q2-35-tdi-quattro-s-tronic-110-kw",2022-09-12
+"Mercedes-Benz","A 180","Blue","6399","144000km","2/2012","Manual","85 kW (116 hp)","1699cc","Petrol","6 l/100km","4x2","Germany","https://carvago.com/car/50990436/mercedes-benz-a-180-85-kw",2022-09-12
+"Mazda","2","Blue","5699","159702km","12/2014","Manual","62 kW (84 hp)","1349cc","Petrol","5 l/100km","4x2","Germany","https://carvago.com/car/51364513/mazda-2-1-3-mzr-sendo-62-kw",2022-09-12
+"BMW","X2","White","32099","5499km","6/2021","Automatic","110 kW (150 hp)","1995cc","Diesel","4.4 l/100km","4x2","Germany","https://carvago.com/car/51488926/bmw-x2-110-kw",2022-09-12
+"Mercedes-Benz","A 250","Black","36199","5863km","1/2022","Manual","118 kW (160 hp)","1332cc","Hybrid","7 l/100km","4x2","Germany","https://carvago.com/car/51190797/mercedes-benz-a-250-e-118-kw",2022-09-12
+"Mercedes-Benz","A 150","Black","4499","123500km","7/2009","Manual","70 kW (95 hp)","1498cc","Petrol","6.6 l/100km","4x2","Germany","https://carvago.com/car/50016177/mercedes-benz-a-150-70-kw",2022-09-12
+"BMW","220","White","27299","44500km","1/2020","Automatic","141 kW (192 hp)","1998cc","Petrol","5.7 l/100km","4x2","Germany","https://carvago.com/car/51723498/bmw-220-advantage-141-kw",2022-09-12
+"Lexus","UX","Grey","34399","12800km","1/2022","Automatic","135 kW (184 hp)","1987cc","Other fuel type","4.1 l/100km","4x2","Spain","https://carvago.com/car/51818472/lexus-ux-135-kw",2022-09-12
+"Abarth","595","Blue","23199","23452km","4/2021","Manual","121 kW (165 hp)","1368cc","Petrol","7 l/100km","4x2","Italy","https://carvago.com/car/47564661/abarth-595-121-kw",2022-09-12
+"Peugeot","208","Red","29649","5858km","10/2020","Automatic","100 kW (136 hp)","Euro6","Electric","4x2",NA,"France","https://carvago.com/car/48626609/peugeot-208-136-allure-100-kw",2022-09-12
+"Ford","Mustang","Silver","41699","43500km","1/2021","Automatic","331 kW (450 hp)","5038cc","Petrol","4x2",NA,"Germany","https://carvago.com/car/51829443/ford-mustang-fastback-5-0-ti-vct-v8-gt-331-kw",2022-09-12
+"Audi","Q4","White","56399","9680km","1/2022","Automatic","125 kW (170 hp)","Noemissionclass","Electric","4x4",NA,"Germany","https://carvago.com/car/51726989/audi-q4-125-kw",2022-09-12
+"Cupra","Leon","Red","30299","26600km","3/2020","Automatic","221 kW (300 hp)","1984cc","Petrol","7.1 l/100km","4x4","Germany","https://carvago.com/car/51619623/cupra-leon-221-kw",2022-09-12
+"Audi","Q5","Blue","34249","26030km","12/2019","Automatic","140 kW (190 hp)","1968cc","Diesel","6 l/100km","4x4","Sweden","https://carvago.com/car/51467093/audi-q5-40-tdi-quattro-s-tronic-sport-140-kw",2022-09-12
+"Renault","Master","White","14749","152386km","10/2017","Manual","125 kW (170 hp)","2298cc","Diesel","7 l/100km","4x2","Netherlands","https://carvago.com/car/51539922/renault-master-125-kw",2022-09-12
+"BMW","420","Grey","33099","38600km","10/2020","Automatic","135 kW (184 hp)","1998cc","Petrol","6.1 l/100km","4x2","Germany","https://carvago.com/car/50175431/bmw-420-sport-line-135-kw",2022-09-12
+"DFSK","Seres 3","Red","34599","50km","5/2022","Automatic","120 kW (163 hp)",NA,"Electric","18 kWh/100km","4x2","Germany","https://carvago.com/car/51425731/dfsk-seres-120-kw",2022-09-12
+"Volvo","V60","Black","27749","30400km","6/2020","Manual","140 kW (190 hp)","1969cc","Diesel","6 l/100km","4x2","Sweden","https://carvago.com/car/50970116/volvo-v60-d4-momentum-140-kw",2022-09-12
+"Nissan","Navara","White","26299","74545km","7/2016","Manual","140 kW (190 hp)","2298cc","Diesel","6 l/100km","4x4","Germany","https://carvago.com/car/50168357/nissan-navara-dc-4x4-eu6-s-s-140-kw",2022-09-12
+"DFSK","Seres 3","Black","32049","5000km","6/2022","Automatic","120 kW (163 hp)",NA,"Electric","18 kWh/100km","4x2","Germany","https://carvago.com/car/50591471/dfsk-seres-120-kw",2022-09-12
+"Peugeot","208","Other interior color","10149","72329km","1/2019","Manual","74 kW (101 hp)","1560cc","Diesel","5 l/100km","4x2","France","https://carvago.com/car/50866850/peugeot-208-74-kw",2022-09-12
+"Audi","A3","Black","29949","26500km","3/2021","Automatic","110 kW (150 hp)","1968cc","Diesel","5 l/100km","4x2","Germany","https://carvago.com/car/51752303/audi-a3-35-tdi-110-kw",2022-09-12
+"Volkswagen","Caddy","White","16799","98000km","3/2019","Manual","92 kW (125 hp)","1395cc","Petrol","5.7 l/100km","4x2","Germany","https://carvago.com/car/51782204/volkswagen-caddy-1-4-tsi-trendline-92-kw",2022-09-12
+"Lexus","UX","Grey","31499","18000km","7/2021","Automatic","135 kW (184 hp)","1987cc","Other fuel type","4.1 l/100km","4x2","Spain","https://carvago.com/car/51821921/lexus-ux-135-kw",2022-09-12
+"Cadillac","XT4","Silver","39399","11km","5/2022","Automatic","169 kW (230 hp)","1995cc","Petrol","9.6 l/100km","4x4","Germany","https://carvago.com/car/51749975/cadillac-xt4-350t-awd-169-kw",2022-09-12
+"BMW","220","Silver","23199","79900km","9/2019","Automatic","140 kW (190 hp)","1995cc","Diesel","4.6 l/100km","4x2","Germany","https://carvago.com/car/49500602/bmw-220-140-kw",2022-09-12
+"BMW","118","White","30699","5840km","1/2022","Automatic","110 kW (150 hp)","1995cc","Diesel","4 l/100km","4x2","Poland","https://carvago.com/car/51762200/bmw-118-110-kw",2022-09-12
+"Hyundai","Santa Fe","Red","22999","12800km","8/2018","Automatic","136 kW (185 hp)","2359cc","Petrol","9.3 l/100km","4x4","Germany","https://carvago.com/car/51720386/hyundai-santa-fe-2-4-gdi-4wd-premium-136-kw",2022-09-12
+"Audi","S6","Black","79349","32589km","1/2020","Automatic","257 kW (349 hp)","2967cc","Diesel","6.5 l/100km","4x4","Germany","https://carvago.com/car/49644414/audi-s6-257-kw",2022-09-12
+"Skoda","Kodiaq","White","28299","57740km","7/2019","Automatic","110 kW (150 hp)","1968cc","Diesel","5.7 l/100km","4x4","Italy","https://carvago.com/car/51822386/skoda-kodiaq-2-0-tdi-4x4-dsg-110-kw",2022-09-12
+"Volvo","V90","Grey","39049","6990km","2/2022","Automatic","146 kW (199 hp)","1969cc","Diesel","5 l/100km","4x2","Sweden","https://carvago.com/car/51473589/volvo-v90-146-kw",2022-09-12
+"Opel","Crossland X","Black","14249","71252km","1/2019","Automatic","81 kW (110 hp)","1199cc","Petrol","6 l/100km","4x2","Poland","https://carvago.com/car/51780701/opel-crossland-x-1-2-automatic-81-kw",2022-09-12
+"Renault","Talisman","Other interior color","21349","131000km","1/2020","Manual","149 kW (203 hp)","1997cc","Diesel","5 l/100km","4x2","France","https://carvago.com/car/50869275/renault-talisman-estate-bluedci-200-149-kw",2022-09-12
+"Skoda","Rapid","White","7949","115332km","1/2016","Manual","66 kW (90 hp)","1422cc","Diesel","4 l/100km","4x2","Poland","https://carvago.com/car/51815247/skoda-rapid-1-4-tdi-green-tec-active-66-kw",2022-09-12
+"Lexus","UX","Grey","33049","22139km","6/2020","Automatic","135 kW (184 hp)","1987cc","Other fuel type","4.1 l/100km","4x2","Spain","https://carvago.com/car/51274773/lexus-ux-135-kw",2022-09-12
+"SsangYong","Korando","Green","12399","92400km","6/2017","Manual","110 kW (150 hp)","1998cc","Petrol","7.5 l/100km","4x2","Germany","https://carvago.com/car/50114878/ssangyong-korando-2-0-2wd-quartz-110-kw",2022-09-12
+"BMW","220","Silver","25649","85700km","11/2019","Automatic","140 kW (190 hp)","1995cc","Diesel","4.6 l/100km","4x4","Germany","https://carvago.com/car/49347436/bmw-220-140-kw",2022-09-12
+"BMW","420","White","40649","20670km","1/2020","Automatic","135 kW (184 hp)","1998cc","Petrol","6 l/100km","4x4","Poland","https://carvago.com/car/49764902/bmw-420-i-coupe-xdrive-135-kw",2022-09-12
+"Land Rover","Range Rover Velar","Silver","50349","66550km","2/2019","Automatic","221 kW (300 hp)","2993cc","Diesel","7.6 l/100km","4x4","Germany","https://carvago.com/car/50929120/land-rover-range-rover-velar-221-kw",2022-09-12
+"BMW","740","Black","51649","61540km","7/2019","Automatic","240 kW (326 hp)","2998cc","Petrol","6.6 l/100km","4x2","Germany","https://carvago.com/car/51646784/bmw-740-240-kw",2022-09-12
+"Mercedes-Benz","CLA 200 Shooting Brake","Silver","16949","174000km","8/2018","Automatic","100 kW (136 hp)","3l/100km","Diesel","4 l/100km","4x2","Germany","https://carvago.com/car/51131276/mercedes-benz-cla-200-shooting-brake-d-100-kw",2022-09-12
+"Mercedes-Benz","A 180","Grey","5199","143000km","6/2010","Automatic","85 kW (116 hp)","1699cc","Petrol","6.6 l/100km","4x2","Germany","https://carvago.com/car/51636469/mercedes-benz-a-180-85-kw",2022-09-12
+"Infiniti","Q30","Grey","25699","22400km","1/2020","Automatic","155 kW (211 hp)","1991cc","Petrol","7.4 l/100km","4x4","Germany","https://carvago.com/car/51775183/infiniti-q30-dct-awd-155-kw",2022-09-12
+"Lexus","UX","Green","33049","11362km","6/2021","Automatic","135 kW (184 hp)","1987cc","Hybrid","4.1 l/100km","4x2","Spain","https://carvago.com/car/51820688/lexus-ux-135-kw",2022-09-12
+"Mercedes-Benz","E 220","Silver","43699","26300km","1/2020","Automatic","143 kW (194 hp)","1950cc","Diesel","4.8 l/100km","4x2","Germany","https://carvago.com/car/49507295/mercedes-benz-e-220-d-t-avantgarde-143-kw",2022-09-12
+"Kia","Optima","Grey","17749","51000km","1/2019","Manual","120 kW (163 hp)","1999cc","Petrol","8 l/100km","4x2","Poland","https://carvago.com/car/51571691/kia-optima-2-0-120-kw",2022-09-12
+"Volvo","XC40","White","33549","104000km","10/2018","Automatic","110 kW (150 hp)","19690cc","Diesel","5 l/100km","4x2","Luxembourg","https://carvago.com/car/49766512/volvo-xc40-d3-110-kw",2022-09-12
+"BMW","740","Black","57349","39649km","7/2019","Automatic","240 kW (326 hp)","2998cc","Petrol","6 l/100km","4x2","Germany","https://carvago.com/car/51075165/bmw-740-240-kw",2022-09-12
+"Opel","Astra","White","17099","94587km","9/2018","Automatic","100 kW (136 hp)","1600cc","Diesel","5 l/100km","4x2","Belgium","https://carvago.com/car/51778620/opel-astra-1-6-d-start-stop-automatic-100-kw",2022-09-12
+"Cadillac","XT4","Black","39399","11km","8/2022","Automatic","169 kW (230 hp)","1998cc","Petrol","9.6 l/100km","4x4","Germany","https://carvago.com/car/51512329/cadillac-xt4-350t-awd-169-kw",2022-09-12
+"DS Automobiles","DS7 Crossback","White","45949","10500km","3/2021","Automatic","221 kW (300 hp)","1598cc","Electric","4x4",NA,"Spain","https://carvago.com/car/45764009/ds-automobiles-ds7-crossback-so-chic-221-kw",2022-09-12
+"Citroen","Berlingo","Black","10899","61700km","4/2017","Manual","72 kW (98 hp)","1598cc","Petrol","6.4 l/100km","4x2","Germany","https://carvago.com/car/51545026/citroen-berlingo-vti-95-selection-72-kw",2022-09-12
+"Cadillac","XT4","Black","39399","0km","8/2022","Automatic","169 kW (230 hp)","2000cc","Petrol","9.6 l/100km","4x4","Germany","https://carvago.com/car/51769201/cadillac-xt4-350t-awd-169-kw",2022-09-12
+"Dodge","Charger","Grey interior","57499","4000km","3/2021","Automatic","362 kW (492 hp)","6417cc","Petrol","4x2",NA,"Germany","https://carvago.com/car/51134249/dodge-charger-362-kw",2022-09-12
+"Citroen","C3",NA,"9999","67847km","1/2019","Manual","75 kW (102 hp)","1499cc","Diesel","3 l/100km","4x2","France","https://carvago.com/car/51628953/citroen-c3-100-s-s-feel-75-kw",2022-09-12
+"BMW","520","White","37349","53510km","8/2020","Automatic","140 kW (190 hp)","1995cc","Diesel","5 l/100km","4x4","Sweden","https://carvago.com/car/49798645/bmw-520-d-touring-xdrive-sport-line-140-kw",2022-09-12
+"Dodge","Charger","Grey","39799","58000km","8/2018","Automatic","362 kW (492 hp)","6417cc","Petrol","4x2",NA,"Germany","https://carvago.com/car/51151030/dodge-charger-362-kw",2022-09-12
+"Mercedes-Benz","A 200","Grey","36349","1708km","4/2021","Automatic","110 kW (150 hp)","1950cc","Diesel","4.3 l/100km","4x2","Italy","https://carvago.com/car/51433847/mercedes-benz-a-200-d-110-kw",2022-09-12
+"BMW","135","Black","51349","32800km","4/2021","Automatic","225 kW (306 hp)","2979cc","Petrol","8 l/100km","4x4","Italy","https://carvago.com/car/15120825/bmw-135-225-kw",2022-09-12
+"BMW","120","White","23949","41700km","8/2019","Automatic","140 kW (190 hp)","1995cc","Diesel","5 l/100km","4x4","Sweden","https://carvago.com/car/51463662/bmw-120-140-kw",2022-09-12
+"Kia","Stonic","Grey","22649","15499km","5/2021","Automatic","88 kW (120 hp)","998cc","Hybrid","4.7 l/100km","4x2","Spain","https://carvago.com/car/48140006/kia-stonic-88-kw",2022-09-12
+"Audi","A1","Red","22049","13950km","6/2021","Manual","82 kW (111 hp)","999cc","Petrol","5 l/100km","4x2","Sweden","https://carvago.com/car/50303318/audi-a1-30-tfsi-82-kw",2022-09-12
+"BMW","M3","Grey","33049","83000km","9/2011","Manual","309 kW (420 hp)","3999cc","Petrol","4x2",NA,"Germany","https://carvago.com/car/51370565/bmw-m3-309-kw",2022-09-12
+"Volvo","V90","Black","25349","90360km","5/2018","Automatic","188 kW (256 hp)","1969cc","Hybrid","7 l/100km","4x2","Sweden","https://carvago.com/car/51453425/volvo-v90-188-kw",2022-09-12
+"BMW","218","Grey","29949","18925km","6/2021","Automatic","100 kW (136 hp)","1499cc","Petrol","5.4 l/100km","4x2","Germany","https://carvago.com/car/49184412/bmw-218-advantage-100-kw",2022-09-12
+"Renault","Master","White","14899","161033km","12/2017","Manual","125 kW (170 hp)","2298cc","Diesel","7 l/100km","4x2","Netherlands","https://carvago.com/car/51547019/renault-master-125-kw",2022-09-12
+"Lexus","UX","Grey","36499","5500km","1/2022","Automatic","135 kW (184 hp)","1987cc","Other fuel type","4.1 l/100km","4x2","Spain","https://carvago.com/car/51754810/lexus-ux-135-kw",2022-09-12
+"Dodge","Charger","Green","51549","56900km","5/2020","Automatic","362 kW (492 hp)","6412cc","Petrol","4x2",NA,"Germany","https://carvago.com/car/51650192/dodge-charger-362-kw",2022-09-12
+"Audi","A3","Silver","37999","25395km","6/2021","Automatic","110 kW (150 hp)","1968cc","Diesel","3.9 l/100km","4x2","Germany","https://carvago.com/car/48946087/audi-a3-35-tdi-110-kw",2022-09-12
+"MG","ZS","Blue","30999","3156km","6/2022","Automatic","130 kW (177 hp)","2497cc","Electric","4x2",NA,"Germany","https://carvago.com/car/50715616/mg-zs-130-kw",2022-09-12
+"BMW","i3","Other interior color","34949","6000km","7/2022","Automatic","127 kW (173 hp)","Noemissionclass","Electric","4x2",NA,"France","https://carvago.com/car/51388341/bmw-i3-120-ah-127-kw",2022-09-12
+"Cadillac","XT4","Black","39399","50km","6/2022","Automatic","128 kW (174 hp)","1995cc","Diesel","6.4 l/100km","4x2","Germany","https://carvago.com/car/43939363/cadillac-xt4-350d-128-kw",2022-09-12
+"Mercedes-Benz","C 400","Grey","52049","1450km","3/2021","Automatic","245 kW (333 hp)","2996cc","Petrol","7.9 l/100km","4x4","Germany","https://carvago.com/car/49558658/mercedes-benz-c-400-t-4matic-avantgarde-245-kw",2022-09-12
+"Peugeot","3008","Grey","13399","101759km","8/2016","Automatic","88 kW (120 hp)","1560cc","Diesel","4.3 l/100km","4x2","France","https://carvago.com/car/50632202/peugeot-3008-120-eat6-stop-start-active-88-kw",2022-09-12
+"Nissan","Micra","Black","3699","96000km","3/2010","Manual","48 kW (65 hp)","1240cc","Petrol","5.9 l/100km","4x2","Germany","https://carvago.com/car/50511163/nissan-micra-1-2-48-kw",2022-09-12
+"Audi","Q2","Silver","22499","57900km","5/2018","Manual","85 kW (116 hp)","999cc","Petrol","5.1 l/100km","4x2","Germany","https://carvago.com/car/50273473/audi-q2-1-0-tfsi-85-kw",2022-09-12
+"Audi","A4","Black","37199","7600km","1/2021","Automatic","150 kW (204 hp)","1968cc","Diesel","4 l/100km","4x4","Poland","https://carvago.com/car/51737827/audi-a4-150-kw",2022-09-12
+"Citroen","C3","Grey","4899","112052km","9/2009","Manual","54 kW (73 hp)","1360cc","Petrol","6.3 l/100km","4x2","Germany","https://carvago.com/car/51568954/citroen-c3-1-4-tonic-54-kw",2022-09-12
+"Audi","S3","Blue","45799","23500km","3/2020","Automatic","221 kW (300 hp)","2000cc","Petrol","7 l/100km","4x4","Germany","https://carvago.com/car/51450852/audi-s3-221-kw",2022-09-12
+"Dacia","Spring","Grey","21099","2049km","1/2022","Automatic","33 kW (45 hp)","Noemissionclass","Electric","4x2",NA,"Netherlands","https://carvago.com/car/51821627/dacia-spring-33-kw",2022-09-12
+"DS Automobiles","DS9","Blue","52149","10km","6/2022","Automatic","165 kW (224 hp)","1598cc","Hybrid","1.5 l/100km","4x2","Germany","https://carvago.com/car/51272756/ds-automobiles-ds9-1-6-e-tense-eat8-165-kw",2022-09-12
+"Ford","Kuga","Grey","13899","158992km","2/2017","Manual","132 kW (179 hp)","1997cc","Diesel","5.2 l/100km","4x4","Germany","https://carvago.com/car/51828392/ford-kuga-2-0-4x4-titanium-132-kw",2022-09-12
+"DS Automobiles","DS7 Crossback","Black","47099","18301km","3/2021","Automatic","221 kW (300 hp)","1600cc","Electric","4x4",NA,"Spain","https://carvago.com/car/51161646/ds-automobiles-ds7-crossback-so-chic-221-kw",2022-09-12
+"BMW","218","Grey","26149","40000km","2/2021","Automatic","100 kW (136 hp)","1499cc","Petrol","5.2 l/100km","4x2","Germany","https://carvago.com/car/51649872/bmw-218-advantage-100-kw",2022-09-12
+"Renault","Master","White","25649","6273km","10/2021","Manual","99 kW (135 hp)","2299cc","Diesel","6.7 l/100km","4x2","Italy","https://carvago.com/car/51721934/renault-master-99-kw",2022-09-12
+"Audi","SQ2","White","55249","1100km","2/2022","Automatic","221 kW (300 hp)","1984cc","Petrol","7.7 l/100km","4x4","Germany","https://carvago.com/car/48617962/audi-sq2-tfsi-s-221-kw",2022-09-12
+"BMW","118","Black","31949","15240km","4/2021","Automatic","110 kW (150 hp)","1995cc","Diesel","4.7 l/100km","4x2","Germany","https://carvago.com/car/50453088/bmw-118-d-110-kw",2022-09-12
+"Volkswagen","Tiguan Allspace","Grey","34199","49260km","10/2019","Automatic","176 kW (239 hp)","1968cc","Diesel","6.4 l/100km","4x4","Germany","https://carvago.com/car/51596844/volkswagen-tiguan-allspace-2-0-tdi-scr-4motion-dsg-highline-176-kw",2022-09-12
+"BMW","X1","White","45749","11030km","3/2021","Automatic","170 kW (231 hp)","1995cc","Diesel","4.9 l/100km","4x4","Germany","https://carvago.com/car/49162210/bmw-x1-170-kw",2022-09-12
+"Jaguar","F-Pace","Black","28199","43250km","7/2019","Automatic","132 kW (179 hp)","1999cc","Diesel","6 l/100km","4x2","Sweden","https://carvago.com/car/51469971/jaguar-f-pace-20d-pure-132-kw",2022-09-12
+"Toyota","Aygo X","White","16099","5000km","7/2022","Manual","53 kW (72 hp)","998cc","Petrol","4 l/100km","4x2","France","https://carvago.com/car/51140646/toyota-aygo-x-1-0-53-kw",2022-09-12
+"BMW","420 Gran Coupé","White","34199","15313km","10/2020","Automatic","140 kW (190 hp)","1995cc","Diesel","4 l/100km","4x2","France","https://carvago.com/car/51358398/bmw-420-gran-coupe-d-140-kw",2022-09-12
+"Hyundai","IONIQ 5","Black interior","43499","2500km","6/2022","Automatic","160 kW (218 hp)",NA,"Electric","17.7 kWh/100km","4x2","Germany","https://carvago.com/car/51502810/hyundai-ioniq-5-long-range-160-kw",2022-09-12
+"Dodge","RAM","Blue","61549","5900km","7/2021","Automatic","295 kW (401 hp)","5700cc","Petrol","14.3 l/100km","4x4","Germany","https://carvago.com/car/51539047/dodge-ram-295-kw",2022-09-12
+"Dodge","Charger","Grey","30449","56000km","7/2017","Automatic","274 kW (373 hp)","5654cc","Petrol","4x2",NA,"Germany","https://carvago.com/car/51172599/dodge-charger-274-kw",2022-09-12
+"BMW","420","Black","28299","49500km","1/2018","Manual","135 kW (184 hp)","1998cc","Petrol","6 l/100km","4x4","Poland","https://carvago.com/car/50070186/bmw-420-sport-line-135-kw",2022-09-12
+"Alfa Romeo","Stelvio","Black","52799","1899km","1/2022","Automatic","206 kW (280 hp)","1995cc","Petrol","7 l/100km","4x4","Poland","https://carvago.com/car/49847138/alfa-romeo-stelvio-2-0-turbo-16v-206-kw",2022-09-12
+"Mercedes-Benz","E 400","Black","41899","30700km","6/2018","Automatic","245 kW (333 hp)","3498cc","Petrol","7.6 l/100km","4x4","Germany","https://carvago.com/car/51633687/mercedes-benz-e-400-4matic-245-kw",2022-09-12
+"Peugeot","iOn","Grey","9399","82455km","12/2018","Automatic","49 kW (67 hp)","Euro6","Electric","4x2",NA,"France","https://carvago.com/car/51476893/peugeot-ion-49-kw",2022-09-12
+"Mercedes-Benz","C 300","Silver","50049","3344km","3/2022","Automatic","190 kW (258 hp)","1999cc","Petrol","6.6 l/100km","4x2","Germany","https://carvago.com/car/51628041/mercedes-benz-c-300-190-kw",2022-09-12
+"Citroen","C4 Cactus","White","17449","86573km","3/2020","Manual","75 kW (102 hp)","1499cc","Diesel","4 l/100km","4x2","Spain","https://carvago.com/car/49579777/citroen-c4-cactus-bluehdi-100-feel-75-kw",2022-09-12
+"BMW","135","Black","57599","11800km","1/2021","Automatic","225 kW (306 hp)","2979cc","Petrol","8 l/100km","4x4","Italy","https://carvago.com/car/34149599/bmw-135-225-kw",2022-09-12
+"BMW","220","Grey","26049","40200km","7/2019","Automatic","140 kW (190 hp)","1995cc","Diesel","4.6 l/100km","4x2","Germany","https://carvago.com/car/49887775/bmw-220-140-kw",2022-09-12
+"DFSK","Seres 3","Blue","34599","50km","4/2022","Automatic","120 kW (163 hp)",NA,"Electric","18 kWh/100km","4x2","Germany","https://carvago.com/car/51274870/dfsk-seres-120-kw",2022-09-12
+"Lexus","CT 200h","Grey","26299","11001km","1/2020","Automatic","100 kW (136 hp)","100kW","Hybrid","4.2 l/100km","4x2","France","https://carvago.com/car/50822051/lexus-ct-200h-100-kw",2022-09-12
+"Audi","A3","Blue","29899","10750km","3/2021","Manual","85 kW (116 hp)","1968cc","Diesel","3.6 l/100km","4x2","Germany","https://carvago.com/car/51182624/audi-a3-30-tdi-85-kw",2022-09-12
