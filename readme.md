@@ -24,8 +24,10 @@ Uses rvest to scrape data from carvago.com daily. It is automated using Github A
 
 
 Blog post: [R ile Scraping - İkinci El Araç Verisi](https://silverstone1903.github.io/posts/2022/08/scraper-ile-ikinci-el-arac-verisi/) (in Turkish) <br>
+Blog post: [Used Cars Data Scraping - R & Github Actions & AWS](https://dev.to/aws-builders/used-cars-data-scraping-r-github-actions-aws-im0) (in English) <br>
 Daily log: [link](https://silverstone1903.github.io/used-car-scraper/report/daily_report.log) <br>
 Daily Report: [link](https://silverstone1903.github.io/used-car-scraper/report/report.html) <br>
+
 
 #### Folder structure
 ```bash
