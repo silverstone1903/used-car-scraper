@@ -1,86 +1,86 @@
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
-Analyse Date: 01-11-2022
-Total DF: 72
-Data Dim: 14138 x 18 
+Analyse Date: 02-11-2022
+Total DF: 73
+Data Dim: 14338 x 18 
 Date Between: 01/09/2022 - 31/10/2022 
-Unique Count: 1758
-Unique ratio: 0.1243457
+Unique Count: 1760
+Unique ratio: 0.1227507
 
 
 |brand          | Count|
 |:--------------|-----:|
 |Abarth         |    23|
-|Alfa Romeo     |    99|
-|Audi           |  1472|
+|Alfa Romeo     |   101|
+|Audi           |  1499|
 |BAIC Motor     |     5|
-|BMW            |  2679|
+|BMW            |  2717|
 |Borgward       |     1|
 |Cadillac       |   242|
-|Chevrolet      |   207|
+|Chevrolet      |   208|
 |Chrysler       |     4|
-|Citroen        |   208|
-|Cupra          |   101|
-|Dacia          |   165|
+|Citroen        |   210|
+|Cupra          |   102|
+|Dacia          |   167|
 |Daihatsu       |     1|
-|DFSK           |   166|
-|Dodge          |  1248|
-|DS Automobiles |   148|
-|Fiat           |   160|
-|Ford           |   208|
+|DFSK           |   167|
+|Dodge          |  1261|
+|DS Automobiles |   150|
+|Fiat           |   162|
+|Ford           |   213|
 |GMC            |     6|
 |Honda          |     9|
-|Hyundai        |   177|
+|Hyundai        |   178|
 |Infiniti       |    13|
 |Isuzu          |    10|
-|Jaguar         |   116|
-|Jeep           |   142|
-|Kia            |   231|
+|Jaguar         |   117|
+|Jeep           |   145|
+|Kia            |   232|
 |Lada           |     1|
 |Lancia         |     6|
-|Land Rover     |   181|
+|Land Rover     |   183|
 |Lexus          |    60|
 |Maserati       |     4|
-|Mazda          |    47|
-|Mercedes-Benz  |  1318|
-|MG             |   191|
-|MINI           |    54|
+|Mazda          |    48|
+|Mercedes-Benz  |  1344|
+|MG             |   192|
+|MINI           |    56|
 |Mitsubishi     |    42|
-|Nissan         |   198|
-|Opel           |   484|
-|Peugeot        |   559|
-|Polestar       |    15|
-|Porsche        |    28|
+|Nissan         |   200|
+|Opel           |   488|
+|Peugeot        |   567|
+|Polestar       |    16|
+|Porsche        |    29|
 |RAM            |     5|
-|Renault        |   432|
-|Seat           |   215|
-|Skoda          |   330|
-|Smart          |    14|
-|SsangYong      |   103|
-|Subaru         |    72|
-|Suzuki         |    82|
-|Tesla          |   178|
-|Toyota         |   274|
-|Volkswagen     |   702|
-|Volvo          |   622|
+|Renault        |   436|
+|Seat           |   223|
+|Skoda          |   335|
+|Smart          |    15|
+|SsangYong      |   105|
+|Subaru         |    73|
+|Suzuki         |    83|
+|Tesla          |   184|
+|Toyota         |   279|
+|Volkswagen     |   705|
+|Volvo          |   636|
 |NA             |    80|
 
 
 |fuel_type       | Count|
 |:---------------|-----:|
-|CNG             |    32|
-|Diesel          |  6756|
-|Electric        |  1057|
-|Hybrid          |   367|
-|LPG             |   230|
+|CNG             |    35|
+|Diesel          |  6876|
+|Electric        |  1072|
+|Hybrid          |   371|
+|LPG             |   235|
 |Other fuel type |    78|
-|Petrol          |  5533|
+|Petrol          |  5586|
 |NA              |    85|
 
 
 |transmission | Count|
 |:------------|-----:|
-|Automatic    |  9641|
-|Manual       |  4412|
+|Automatic    |  9784|
+|Manual       |  4469|
 |NA           |    85|
 
 
@@ -91,6 +91,7 @@ Unique ratio: 0.1243457
 |01/11/2022 | 200|
 |02/09/2022 | 198|
 |02/10/2022 | 200|
+|02/11/2022 | 200|
 |03/09/2022 | 198|
 |03/10/2022 | 200|
 |04/09/2022 | 198|
@@ -165,38 +166,38 @@ Unique ratio: 0.1243457
 |108                          |     7|
 |116                          |     6|
 |118                          |   161|
-|120                          |   307|
-|125                          |    27|
+|120                          |   313|
+|125                          |    28|
 |135                          |    24|
 |1500                         |     5|
-|2                            |    28|
+|2                            |    29|
 |2008                         |     5|
 |206                          |    16|
 |207                          |    29|
-|208                          |   283|
+|208                          |   288|
 |218                          |    72|
-|220                          |   533|
-|3008                         |    31|
+|220                          |   539|
+|3008                         |    33|
 |300C                         |     4|
-|308                          |    99|
+|308                          |   100|
 |316                          |     3|
 |318                          |     9|
 |318 Gran Turismo             |     1|
-|320                          |    93|
-|320 Gran Turismo             |    14|
-|330                          |   150|
+|320                          |    95|
+|320 Gran Turismo             |    15|
+|330                          |   156|
 |330 Gran Turismo             |     2|
-|340                          |    23|
+|340                          |    24|
 |420                          |    69|
-|420 Gran Coupé               |    55|
+|420 Gran Coupé               |    56|
 |430                          |     2|
 |430 Gran Coupé               |    16|
-|440                          |    54|
-|500                          |    24|
+|440                          |    55|
+|500                          |    25|
 |5008                         |     2|
 |508                          |    26|
 |520                          |    47|
-|530                          |    66|
+|530                          |    69|
 |535 Gran Turismo             |     3|
 |540                          |    53|
 |550                          |     2|
@@ -204,29 +205,29 @@ Unique ratio: 0.1243457
 |595 Turismo                  |     1|
 |640 Gran Turismo             |     7|
 |730                          |    48|
-|740                          |   108|
+|740                          |   110|
 |750                          |    51|
 |A 150                        |    27|
 |A 160                        |     4|
-|A 180                        |    20|
+|A 180                        |    21|
 |A 200                        |    11|
-|A 220                        |   123|
-|A 250                        |    76|
+|A 220                        |   129|
+|A 250                        |    78|
 |A 35 AMG                     |     4|
 |A1                           |    46|
 |A3                           |    82|
-|A4                           |    78|
-|A4 Allroad                   |    66|
-|A5                           |   269|
-|A6                           |   113|
+|A4                           |    82|
+|A4 Allroad                   |    68|
+|A5                           |   273|
+|A6                           |   118|
 |A6 Allroad                   |    11|
-|A7                           |    10|
-|A8                           |     1|
+|A7                           |    11|
+|A8                           |     2|
 |Acadia                       |     2|
 |Alaskan                      |     8|
 |Amarok                       |    69|
-|Antara                       |    55|
-|Arona                        |    82|
+|Antara                       |    56|
+|Arona                        |    84|
 |Arteon                       |    73|
 |Astra                        |    45|
 |ASX                          |     3|
@@ -242,36 +243,36 @@ Unique ratio: 0.1243457
 |BX7                          |     1|
 |C 180                        |    20|
 |C 200                        |    19|
-|C 220                        |    30|
+|C 220                        |    31|
 |C 250                        |     1|
-|C 300                        |   142|
+|C 300                        |   143|
 |C 350                        |     1|
 |C 400                        |    14|
 |C 43 AMG                     |    18|
 |C-Crosser                    |     5|
 |C-Elysée                     |     2|
 |C-Zero                       |    10|
-|C3                           |    65|
-|C3 Aircross                  |    74|
+|C3                           |    66|
+|C3 Aircross                  |    75|
 |C4 Cactus                    |    15|
-|Caddy                        |   106|
+|Caddy                        |   107|
 |Camaro                       |     4|
-|Captur                       |     4|
+|Captur                       |     5|
 |Cayenne                      |    14|
 |cee'd / Ceed                 |    34|
 |Challenger                   |    39|
 |Charade                      |     1|
-|Charger                      |   605|
+|Charger                      |   610|
 |Citigo                       |     4|
 |CLA 180                      |     7|
 |CLA 200                      |    14|
 |CLA 200 Shooting Brake       |    57|
-|CLA 220                      |    53|
-|CLA 220 Shooting Brake       |     4|
+|CLA 220                      |    56|
+|CLA 220 Shooting Brake       |     5|
 |CLA 35 AMG Shooting Brake    |    23|
 |CLA 45 AMG                   |     1|
 |CLA 45 AMG Shooting Brake    |     7|
-|Clio                         |    83|
+|Clio                         |    84|
 |CLS 400                      |     2|
 |CLS 450                      |     3|
 |CLS 500                      |     1|
@@ -280,10 +281,10 @@ Unique ratio: 0.1243457
 |Compass                      |    17|
 |Cooper Clubman               |     2|
 |Cooper D Countryman          |     5|
-|Cooper S                     |    15|
+|Cooper S                     |    16|
 |Cooper S Cabrio              |    22|
 |Cooper SD Clubman            |     2|
-|Cooper SD Countryman         |     3|
+|Cooper SD Countryman         |     4|
 |Corolla                      |     1|
 |Corsa                        |    35|
 |CR-V                         |     4|
@@ -292,70 +293,70 @@ Unique ratio: 0.1243457
 |Cruze                        |     8|
 |CT 200h                      |    16|
 |CX-3                         |     1|
-|CX-5                         |    33|
+|CX-5                         |    34|
 |D-Max                        |    10|
 |Discovery                    |    14|
 |Discovery Sport              |    60|
 |DS3                          |     3|
 |DS3 Crossback                |     3|
-|DS7 Crossback                |    64|
-|DS9                          |    78|
+|DS7 Crossback                |    65|
+|DS9                          |    79|
 |Durango                      |    12|
-|Duster                       |    48|
+|Duster                       |    49|
 |E 200                        |    55|
-|E 220                        |   136|
-|E 300                        |    28|
+|E 220                        |   137|
+|E 300                        |    29|
 |E 350                        |    62|
-|E 400                        |    61|
+|E 400                        |    64|
 |E 450                        |    42|
-|E 63 AMG                     |    88|
+|E 63 AMG                     |    89|
 |e-NV200                      |    18|
-|E-Pace                       |    46|
+|E-Pace                       |    47|
 |e-tron                       |    13|
 |e-up!                        |     8|
 |Eclipse                      |     9|
 |EQS                          |     1|
-|Exeo                         |     2|
+|Exeo                         |     3|
 |Expert                       |    20|
 |Explorer                     |     1|
 |F-Pace                       |    16|
 |Fabia                        |    55|
 |Fiesta                       |     8|
 |Fluence                      |     2|
-|Focus                        |    13|
+|Focus                        |    16|
 |Forester                     |    25|
 |ForFour                      |     5|
-|Formentor                    |    24|
-|ForTwo                       |     9|
+|Formentor                    |    25|
+|ForTwo                       |    10|
 |Fusion                       |    48|
 |FX                           |     1|
 |Getz                         |     1|
 |Ghibli                       |     1|
 |Giulia                       |    32|
-|Giulietta                    |    29|
+|Giulietta                    |    30|
 |GLA 250                      |     1|
-|Gladiator                    |    31|
+|Gladiator                    |    33|
 |GLB 200                      |     3|
-|GLB 220                      |    87|
+|GLB 220                      |    89|
 |GLB 35 AMG                   |     1|
 |GLC 300                      |    16|
-|GLC 400                      |    26|
+|GLC 400                      |    28|
 |GLE 350                      |     1|
 |GLE 63 AMG                   |     3|
 |Golf                         |    32|
 |Grand Cherokee               |    16|
-|Grande Punto                 |    33|
-|Hilux                        |    56|
+|Grande Punto                 |    34|
+|Hilux                        |    58|
 |I-Pace                       |     3|
 |i10                          |    66|
 |i20                          |    44|
-|i3                           |   174|
-|i30                          |    13|
-|Ibiza                        |     9|
+|i3                           |   176|
+|i30                          |    14|
+|Ibiza                        |    10|
 |ID.4                         |    36|
 |ID.5                         |     9|
-|Impreza                      |     5|
-|Insignia                     |    76|
+|Impreza                      |     6|
+|Insignia                     |    77|
 |Insignia CT                  |     3|
 |iOn                          |    41|
 |IONIQ 5                      |    20|
@@ -367,46 +368,46 @@ Unique ratio: 0.1243457
 |Kadjar                       |     3|
 |Kamiq                        |     1|
 |Karl                         |     9|
-|Karoq                        |    27|
+|Karoq                        |    29|
 |Kodiaq                       |    56|
 |Koleos                       |     8|
-|Korando                      |    59|
-|Kuga                         |    74|
-|Land Cruiser                 |   107|
+|Korando                      |    60|
+|Kuga                         |    75|
+|Land Cruiser                 |   110|
 |Leaf                         |    12|
 |Legacy                       |     7|
-|Leon                         |   140|
+|Leon                         |   143|
 |Levante                      |     3|
 |Linea                        |     2|
-|M135                         |    49|
-|M140i                        |     2|
+|M135                         |    50|
+|M140i                        |     3|
 |M2                           |     1|
 |M240i                        |     2|
 |M3                           |    97|
-|M340i                        |    45|
+|M340i                        |    47|
 |M550                         |    26|
 |M760                         |     8|
-|Macan                        |    11|
-|Master                       |   178|
-|Matiz                        |   104|
+|Macan                        |    12|
+|Master                       |   179|
+|Matiz                        |   105|
 |Megane                       |    35|
 |Micra                        |    37|
 |ML 63 AMG                    |     4|
-|Model 3                      |   117|
-|Model S                      |     4|
-|Model Y                      |    57|
+|Model 3                      |   120|
+|Model S                      |     5|
+|Model Y                      |    59|
 |Mokka                        |     8|
 |Mokka X                      |     6|
-|Mondeo                       |    24|
-|Movano                       |   120|
-|MUSSO                        |    44|
+|Mondeo                       |    25|
+|Movano                       |   122|
+|MUSSO                        |    45|
 |Mustang                      |     3|
 |Mustang Mach-E               |     7|
-|Navara                       |    65|
+|Navara                       |    66|
 |Niro                         |     3|
 |Niva                         |     6|
 |Nubira                       |     4|
-|Octavia                      |    31|
+|Octavia                      |    32|
 |Optima                       |    26|
 |Outlander                    |    26|
 |Panda                        |    28|
@@ -418,37 +419,37 @@ Unique ratio: 0.1243457
 |Primastar                    |    16|
 |Puma                         |     1|
 |Punto                        |     2|
-|Q2                           |   150|
+|Q2                           |   152|
 |Q3                           |   136|
 |Q30                          |     7|
-|Q4                           |    11|
-|Q5                           |   162|
+|Q4                           |    12|
+|Q5                           |   163|
 |Q8                           |     9|
-|Qashqai                      |    13|
+|Qashqai                      |    14|
 |Qashqai+2                    |     6|
 |QX70                         |     5|
-|RAM                          |   592|
-|Range Rover Evoque           |    72|
+|RAM                          |   600|
+|Range Rover Evoque           |    73|
 |Range Rover Sport            |     2|
-|Range Rover Velar            |    33|
+|Range Rover Velar            |    34|
 |Ranger                       |    29|
-|Rapid                        |    28|
-|Renegade                     |    70|
-|RS3                          |    78|
+|Rapid                        |    30|
+|Renegade                     |    71|
+|RS3                          |    79|
 |RS4                          |     1|
 |RS5                          |     3|
 |S 63 AMG                     |     1|
 |S3                           |    72|
-|S4                           |     1|
-|S6                           |    65|
+|S4                           |     2|
+|S6                           |    67|
 |S60                          |    11|
 |S90                          |    20|
-|Sandero                      |   105|
+|Sandero                      |   106|
 |Santa Fe                     |    22|
 |Scala                        |     2|
 |Sedici                       |     1|
 |Senova X55                   |     5|
-|Seres 3                      |   166|
+|Seres 3                      |   167|
 |Sierra                       |     4|
 |Sorento                      |     2|
 |Space Star                   |     3|
@@ -456,18 +457,18 @@ Unique ratio: 0.1243457
 |Sportage                     |    10|
 |Spring                       |    12|
 |SQ2                          |    28|
-|SQ5                          |    66|
-|Stelvio                      |    38|
+|SQ5                          |    68|
+|Stelvio                      |    39|
 |Stonic                       |    25|
 |Superb                       |    30|
-|SX4 S-Cross                  |    51|
+|SX4 S-Cross                  |    52|
 |T-Cross                      |    35|
-|T-Roc                        |    79|
+|T-Roc                        |    80|
 |T5 Transporter               |    37|
 |Taigo                        |     2|
 |Talento                      |    57|
-|Talisman                     |   108|
-|Tarraco                      |    19|
+|Talisman                     |   109|
+|Tarraco                      |    20|
 |Thesis                       |     6|
 |Tiguan                       |    58|
 |Tiguan Allspace              |    55|
@@ -476,32 +477,32 @@ Unique ratio: 0.1243457
 |TT                           |     1|
 |Tucson                       |     2|
 |Tundra                       |     2|
-|up!                          |    24|
+|up!                          |    25|
 |UX                           |    44|
 |V40                          |     1|
-|V60                          |   142|
+|V60                          |   144|
 |V60 Cross Country            |     3|
-|V90                          |   329|
-|V90 Cross Country            |    59|
+|V90                          |   337|
+|V90 Cross Country            |    62|
 |Venga                        |    24|
 |Vesta                        |     1|
 |Vitara                       |    24|
 |Wrangler                     |     8|
 |WRX STI                      |    32|
-|X 250                        |     5|
+|X 250                        |     6|
 |X 350                        |    13|
 |X-Trail                      |    13|
-|X1                           |   194|
+|X1                           |   195|
 |X2                           |    56|
 |X3                           |    12|
-|X3 M                         |     2|
+|X3 M                         |     3|
 |X3 M40                       |     2|
 |X4 M40                       |     1|
 |X6 M                         |     2|
 |XC40                         |    38|
 |XC60                         |    17|
-|XC90                         |     2|
-|XCeed                        |    84|
+|XC90                         |     3|
+|XCeed                        |    85|
 |XE                           |    27|
 |XF                           |    24|
 |XT4                          |   241|
@@ -510,26 +511,26 @@ Unique ratio: 0.1243457
 |Yaris Cross                  |     1|
 |Yeti                         |    96|
 |ZOE                          |     3|
-|ZS                           |   191|
+|ZS                           |   192|
 |NA                           |    80|
 
 
 | year| Count|
 |----:|-----:|
-| 2009|   818|
-| 2010|   332|
-| 2011|   265|
-| 2012|   273|
-| 2013|   140|
-| 2014|   118|
-| 2015|   268|
-| 2016|   325|
-| 2017|   751|
-| 2018|   779|
-| 2019|  3081|
-| 2020|  2211|
-| 2021|  2506|
-| 2022|  2186|
+| 2009|   826|
+| 2010|   334|
+| 2011|   266|
+| 2012|   274|
+| 2013|   142|
+| 2014|   119|
+| 2015|   272|
+| 2016|   331|
+| 2017|   756|
+| 2018|   787|
+| 2019|  3133|
+| 2020|  2253|
+| 2021|  2539|
+| 2022|  2221|
 |   NA|    85|
 
 
@@ -538,38 +539,38 @@ Unique ratio: 0.1243457
 |108                          |       31399.000|
 |116                          |      146070.000|
 |118                          |       30696.130|
-|120                          |       34410.358|
+|120                          |       34527.093|
 |125                          |       59000.000|
 |135                          |       28425.000|
 |1500                         |       52189.600|
-|2                            |       73325.786|
+|2                            |       70969.724|
 |2008                         |        7000.000|
 |206                          |       99168.750|
 |207                          |      156686.034|
-|208                          |       57329.099|
+|208                          |       57190.500|
 |218                          |       38819.708|
-|220                          |       61946.486|
-|3008                         |      119919.774|
+|220                          |       61958.725|
+|3008                         |      118907.848|
 |300C                         |      106923.000|
-|308                          |      126680.636|
+|308                          |      126604.350|
 |316                          |       84000.000|
 |318                          |      139000.000|
 |318 Gran Turismo             |         498.000|
-|320                          |       38552.022|
-|320 Gran Turismo             |       50870.429|
-|330                          |       20738.147|
+|320                          |       37740.400|
+|320 Gran Turismo             |       49853.200|
+|330                          |       21090.212|
 |330 Gran Turismo             |       39825.000|
-|340                          |       40319.000|
+|340                          |       42719.042|
 |420                          |       37707.391|
-|420 Gran Coupé               |       25510.927|
+|420 Gran Coupé               |       25781.393|
 |430                          |      140753.000|
 |430 Gran Coupé               |       79099.000|
-|440                          |       47290.000|
-|500                          |       12577.708|
+|440                          |       47448.364|
+|500                          |       12394.600|
 |5008                         |      136000.000|
 |508                          |       32273.000|
 |520                          |       13171.277|
-|530                          |       66298.242|
+|530                          |       65761.507|
 |535 Gran Turismo             |      150000.000|
 |540                          |       55937.811|
 |550                          |      113500.000|
@@ -577,29 +578,29 @@ Unique ratio: 0.1243457
 |595 Turismo                  |       26111.000|
 |640 Gran Turismo             |       45711.000|
 |730                          |       32028.021|
-|740                          |       57586.148|
+|740                          |       57863.255|
 |750                          |       62566.059|
 |A 150                        |      111796.296|
 |A 160                        |      100000.000|
-|A 180                        |      130376.800|
+|A 180                        |      124871.619|
 |A 200                        |       25654.273|
-|A 220                        |       23440.984|
-|A 250                        |        9229.382|
+|A 220                        |       23283.705|
+|A 250                        |        9195.949|
 |A 35 AMG                     |       65967.500|
 |A1                           |        8345.000|
 |A3                           |       23873.573|
-|A4                           |       27047.436|
-|A4 Allroad                   |       34112.455|
-|A5                           |       31512.665|
-|A6                           |       47244.274|
+|A4                           |       27277.073|
+|A4 Allroad                   |       33994.309|
+|A5                           |       31200.055|
+|A6                           |       47210.517|
 |A6 Allroad                   |       51572.727|
-|A7                           |       31576.000|
+|A7                           |       33237.818|
 |A8                           |       32490.000|
 |Acadia                       |       96147.000|
 |Alaskan                      |        4854.000|
 |Amarok                       |      112912.754|
-|Antara                       |      127972.673|
-|Arona                        |       27088.037|
+|Antara                       |      127892.804|
+|Arona                        |       26944.274|
 |Arteon                       |       24921.507|
 |Astra                        |      123836.267|
 |ASX                          |      131100.000|
@@ -615,36 +616,36 @@ Unique ratio: 0.1243457
 |BX7                          |        6000.000|
 |C 180                        |      133000.000|
 |C 200                        |      126008.421|
-|C 220                        |       93243.833|
+|C 220                        |       91719.839|
 |C 250                        |       98000.000|
-|C 300                        |       14264.845|
+|C 300                        |       14223.224|
 |C 350                        |       66965.000|
 |C 400                        |        1450.000|
 |C 43 AMG                     |       31188.889|
 |C-Crosser                    |      144000.000|
 |C-Elysée                     |       39999.000|
 |C-Zero                       |       51317.400|
-|C3                           |      100541.862|
-|C3 Aircross                  |       54787.203|
+|C3                           |       99860.485|
+|C3 Aircross                  |       54391.120|
 |C4 Cactus                    |       86573.000|
-|Caddy                        |       71452.085|
+|Caddy                        |       71130.467|
 |Camaro                       |       60450.000|
-|Captur                       |      151144.000|
+|Captur                       |      143375.200|
 |Cayenne                      |      134740.000|
 |cee'd / Ceed                 |      140453.618|
 |Challenger                   |       22727.051|
 |Charade                      |       66770.000|
-|Charger                      |       34754.736|
+|Charger                      |       34906.582|
 |Citigo                       |      103680.250|
 |CLA 180                      |       18525.857|
 |CLA 200                      |       65535.000|
 |CLA 200 Shooting Brake       |      171192.982|
-|CLA 220                      |       26425.075|
-|CLA 220 Shooting Brake       |       15453.750|
+|CLA 220                      |       26525.214|
+|CLA 220 Shooting Brake       |       15351.200|
 |CLA 35 AMG Shooting Brake    |       12200.000|
 |CLA 45 AMG                   |       22000.000|
 |CLA 45 AMG Shooting Brake    |        2392.857|
-|Clio                         |       48786.108|
+|Clio                         |       48370.607|
 |CLS 400                      |       75000.000|
 |CLS 450                      |       22860.000|
 |CLS 500                      |       44900.000|
@@ -656,7 +657,7 @@ Unique ratio: 0.1243457
 |Cooper S                     |       31410.000|
 |Cooper S Cabrio              |       45910.000|
 |Cooper SD Clubman            |       17378.000|
-|Cooper SD Countryman         |       69414.667|
+|Cooper SD Countryman         |       67037.000|
 |Corolla                      |          10.000|
 |Corsa                        |       99717.371|
 |CR-V                         |       69000.000|
@@ -665,70 +666,70 @@ Unique ratio: 0.1243457
 |Cruze                        |       83200.000|
 |CT 200h                      |       11001.000|
 |CX-3                         |      108200.000|
-|CX-5                         |       27156.697|
+|CX-5                         |       26575.471|
 |D-Max                        |        1000.000|
 |Discovery                    |      112436.571|
 |Discovery Sport              |       71345.417|
 |DS3                          |       67733.333|
 |DS3 Crossback                |       20480.000|
-|DS7 Crossback                |       15158.375|
-|DS9                          |        3100.487|
+|DS7 Crossback                |       15206.723|
+|DS9                          |        3148.089|
 |Durango                      |       71512.667|
-|Duster                       |       61706.812|
+|Duster                       |       60904.612|
 |E 200                        |      127325.309|
-|E 220                        |       27921.963|
-|E 300                        |       42649.214|
+|E 220                        |       27910.124|
+|E 300                        |       42832.897|
 |E 350                        |       95373.081|
-|E 400                        |       54404.148|
+|E 400                        |       54026.109|
 |E 450                        |       31369.667|
-|E 63 AMG                     |       66914.159|
+|E 63 AMG                     |       66555.573|
 |e-NV200                      |        2458.333|
-|E-Pace                       |       46086.957|
+|E-Pace                       |       45939.574|
 |e-tron                       |       17900.000|
 |e-up!                        |       32577.500|
 |Eclipse                      |       27279.556|
 |EQS                          |        8000.000|
-|Exeo                         |      138500.000|
+|Exeo                         |      145333.333|
 |Expert                       |      114254.250|
 |Explorer                     |        8000.000|
 |F-Pace                       |       47987.500|
 |Fabia                        |      138330.145|
 |Fiesta                       |      120870.000|
 |Fluence                      |       99986.000|
-|Focus                        |      145285.769|
+|Focus                        |      146476.875|
 |Forester                     |       10180.000|
 |ForFour                      |        6720.000|
-|Formentor                    |        7276.167|
-|ForTwo                       |       47648.889|
+|Formentor                    |        7145.120|
+|ForTwo                       |       47884.000|
 |Fusion                       |       85093.750|
 |FX                           |      114850.000|
 |Getz                         |       99983.000|
 |Ghibli                       |       14265.000|
 |Giulia                       |       38806.312|
-|Giulietta                    |      109823.207|
+|Giulietta                    |      110843.300|
 |GLA 250                      |       16871.000|
-|Gladiator                    |        3779.839|
+|Gladiator                    |        3552.273|
 |GLB 200                      |       29298.000|
-|GLB 220                      |       29693.287|
+|GLB 220                      |       29660.494|
 |GLB 35 AMG                   |       29298.000|
 |GLC 300                      |       94751.938|
-|GLC 400                      |       28216.808|
+|GLC 400                      |       29092.929|
 |GLE 350                      |       69700.000|
 |GLE 63 AMG                   |      131000.000|
 |Golf                         |       74999.875|
 |Grand Cherokee               |       56093.000|
 |Grande Punto                 |      146000.000|
-|Hilux                        |       27545.625|
+|Hilux                        |       26596.638|
 |I-Pace                       |        7000.000|
 |i10                          |      127167.500|
 |i20                          |      130936.091|
-|i3                           |       14537.167|
-|i30                          |       93255.154|
-|Ibiza                        |       85555.556|
+|i3                           |       14519.670|
+|i30                          |       93486.929|
+|Ibiza                        |       77579.400|
 |ID.4                         |        8065.278|
 |ID.5                         |        1200.000|
 |Impreza                      |       52808.000|
-|Insignia                     |      116566.250|
+|Insignia                     |      116805.649|
 |Insignia CT                  |      136000.000|
 |iOn                          |       47061.366|
 |IONIQ 5                      |        2500.000|
@@ -740,46 +741,46 @@ Unique ratio: 0.1243457
 |Kadjar                       |       57259.000|
 |Kamiq                        |       16000.000|
 |Karl                         |       43700.000|
-|Karoq                        |      143277.769|
+|Karoq                        |      141879.714|
 |Kodiaq                       |       77927.857|
 |Koleos                       |       98499.875|
-|Korando                      |       87056.271|
-|Kuga                         |       77045.311|
-|Land Cruiser                 |        7504.206|
+|Korando                      |       87145.333|
+|Kuga                         |       76991.373|
+|Land Cruiser                 |        7299.955|
 |Leaf                         |       27798.250|
 |Legacy                       |      137838.143|
-|Leon                         |       62343.436|
+|Leon                         |       63418.259|
 |Levante                      |       43466.667|
 |Linea                        |       51995.000|
-|M135                         |       20875.388|
+|M135                         |       21026.820|
 |M140i                        |       31602.000|
 |M2                           |       14700.000|
 |M240i                        |       20534.500|
 |M3                           |       58906.206|
-|M340i                        |       35028.667|
+|M340i                        |       35147.255|
 |M550                         |      128851.385|
 |M760                         |      100564.500|
 |Macan                        |        3680.000|
-|Master                       |      108143.843|
-|Matiz                        |       80855.856|
+|Master                       |      107767.061|
+|Matiz                        |       80942.943|
 |Megane                       |      141283.657|
 |Micra                        |      112544.000|
 |ML 63 AMG                    |      104950.000|
-|Model 3                      |       38925.889|
-|Model S                      |       61640.000|
-|Model Y                      |       15681.947|
+|Model 3                      |       39293.583|
+|Model S                      |       63112.000|
+|Model Y                      |       15697.814|
 |Mokka                        |        8883.375|
 |Mokka X                      |       52500.000|
-|Mondeo                       |      110532.083|
-|Movano                       |       73816.017|
-|MUSSO                        |        1233.182|
+|Mondeo                       |      109750.800|
+|Movano                       |       73969.303|
+|MUSSO                        |        1272.444|
 |Mustang                      |       30268.333|
 |Mustang Mach-E               |        1850.000|
-|Navara                       |       65999.615|
+|Navara                       |       66129.091|
 |Niro                         |       24471.000|
 |Niva                         |       16781.000|
 |Nubira                       |      142100.000|
-|Octavia                      |      124282.258|
+|Octavia                      |      125705.562|
 |Optima                       |       51000.000|
 |Outlander                    |      127842.462|
 |Panda                        |      136671.429|
@@ -791,37 +792,37 @@ Unique ratio: 0.1243457
 |Primastar                    |        7656.438|
 |Puma                         |        4120.000|
 |Punto                        |      116000.000|
-|Q2                           |       18340.493|
+|Q2                           |       18190.467|
 |Q3                           |       24297.890|
 |Q30                          |       22400.000|
-|Q4                           |        3250.909|
-|Q5                           |       27971.963|
+|Q4                           |        3044.750|
+|Q5                           |       27953.669|
 |Q8                           |       58000.000|
-|Qashqai                      |      117004.615|
+|Qashqai                      |      119620.000|
 |Qashqai+2                    |      104000.000|
 |QX70                         |       20300.000|
-|RAM                          |       26739.160|
-|Range Rover Evoque           |       22880.639|
+|RAM                          |       26575.590|
+|Range Rover Evoque           |       22635.685|
 |Range Rover Sport            |      106850.000|
-|Range Rover Velar            |       65520.909|
+|Range Rover Velar            |       65051.765|
 |Ranger                       |       88133.069|
-|Rapid                        |      104834.464|
+|Rapid                        |      105659.633|
 |Renegade                     |       28415.000|
-|RS3                          |       23210.256|
+|RS3                          |       22967.089|
 |RS4                          |       36386.000|
 |RS5                          |       15098.000|
 |S 63 AMG                     |      150000.000|
 |S3                           |       17355.250|
 |S4                           |       42960.000|
-|S6                           |       48192.954|
+|S6                           |       48102.672|
 |S60                          |       74659.182|
 |S90                          |       23730.000|
-|Sandero                      |      109049.829|
+|Sandero                      |      108648.415|
 |Santa Fe                     |       29403.773|
 |Scala                        |       40000.000|
 |Sedici                       |       59750.000|
 |Senova X55                   |       17000.000|
-|Seres 3                      |        2325.120|
+|Seres 3                      |        2338.144|
 |Sierra                       |       77300.000|
 |Sorento                      |      131000.000|
 |Space Star                   |       16800.000|
@@ -830,17 +831,17 @@ Unique ratio: 0.1243457
 |Spring                       |        2981.667|
 |SQ2                          |        4285.214|
 |SQ5                          |       26223.000|
-|Stelvio                      |        7948.789|
+|Stelvio                      |        8091.333|
 |Stonic                       |       15499.000|
 |Superb                       |       71144.733|
-|SX4 S-Cross                  |      116666.667|
+|SX4 S-Cross                  |      117192.308|
 |T-Cross                      |       32098.114|
-|T-Roc                        |        7394.911|
+|T-Roc                        |        7400.800|
 |T5 Transporter               |      125895.541|
 |Taigo                        |       12740.000|
 |Talento                      |       38665.789|
-|Talisman                     |      100615.278|
-|Tarraco                      |       31968.421|
+|Talisman                     |      100894.037|
+|Tarraco                      |       33450.000|
 |Thesis                       |      160500.000|
 |Tiguan                       |       59629.103|
 |Tiguan Allspace              |       40646.636|
@@ -849,13 +850,13 @@ Unique ratio: 0.1243457
 |TT                           |        8600.000|
 |Tucson                       |      135810.000|
 |Tundra                       |         400.000|
-|up!                          |      118569.208|
+|up!                          |      120630.960|
 |UX                           |       16882.568|
 |V40                          |      112669.000|
-|V60                          |       58916.408|
+|V60                          |       58297.778|
 |V60 Cross Country            |        3500.000|
-|V90                          |       43549.058|
-|V90 Cross Country            |       81054.915|
+|V90                          |       43591.691|
+|V90 Cross Country            |       82358.226|
 |Venga                        |       85850.000|
 |Vesta                        |       13500.000|
 |Vitara                       |       77779.167|
@@ -864,7 +865,7 @@ Unique ratio: 0.1243457
 |X 250                        |       54166.000|
 |X 350                        |       50000.000|
 |X-Trail                      |       39000.000|
-|X1                           |       41763.376|
+|X1                           |       41735.918|
 |X2                           |       30034.857|
 |X3                           |        7010.000|
 |X3 M                         |        1811.000|
@@ -873,8 +874,8 @@ Unique ratio: 0.1243457
 |X6 M                         |      119090.000|
 |XC40                         |       74174.500|
 |XC60                         |      138411.765|
-|XC90                         |      141086.500|
-|XCeed                        |       17588.690|
+|XC90                         |      132448.667|
+|XCeed                        |       17611.176|
 |XE                           |       38585.963|
 |XF                           |       52166.500|
 |XT4                          |        4662.992|
@@ -883,123 +884,123 @@ Unique ratio: 0.1243457
 |Yaris Cross                  |       11500.000|
 |Yeti                         |      135377.302|
 |ZOE                          |       20872.000|
-|ZS                           |        3016.550|
+|ZS                           |        3020.630|
 |NA                           |             NaN|
 
 
 |brand          | Avg. Km (Brand)|
 |:--------------|---------------:|
 |Abarth         |       26017.522|
-|Alfa Romeo     |       47764.939|
-|Audi           |       27844.874|
+|Alfa Romeo     |       48343.198|
+|Audi           |       27858.268|
 |BAIC Motor     |       17000.000|
-|BMW            |       43940.032|
+|BMW            |       43913.349|
 |Borgward       |        6000.000|
 |Cadillac       |        5362.731|
-|Chevrolet      |       92133.464|
+|Chevrolet      |       92123.207|
 |Chrysler       |      106923.000|
-|Citroen        |       80273.812|
-|Cupra          |       16668.267|
-|Dacia          |       87563.267|
+|Citroen        |       79893.357|
+|Cupra          |       16544.069|
+|Dacia          |       87046.934|
 |Daihatsu       |       66770.000|
-|DFSK           |        2325.120|
-|Dodge          |       30930.052|
-|DS Automobiles |        9977.122|
-|Fiat           |       72419.750|
-|Ford           |       86375.154|
+|DFSK           |        2338.144|
+|Dodge          |       30914.255|
+|DS Automobiles |       10011.840|
+|Fiat           |       72476.296|
+|Ford           |       87253.272|
 |GMC            |       83582.333|
 |Honda          |       72444.444|
-|Hyundai        |       98103.266|
+|Hyundai        |       98094.258|
 |Infiniti       |       28703.846|
 |Isuzu          |        1000.000|
-|Jaguar         |       44850.147|
-|Jeep           |       30422.190|
-|Kia            |       60109.268|
+|Jaguar         |       44801.513|
+|Jeep           |       29989.076|
+|Kia            |       59934.228|
 |Lada           |       13500.000|
 |Lancia         |      160500.000|
-|Land Rover     |       54575.320|
+|Land Rover     |       54277.060|
 |Lexus          |       15314.150|
 |Maserati       |       36166.250|
-|Mazda          |       63457.298|
-|Mercedes-Benz  |       52534.492|
-|MG             |        3016.550|
-|MINI           |       51776.556|
+|Mazda          |       62289.333|
+|Mercedes-Benz  |       52072.519|
+|MG             |        3020.630|
+|MINI           |       51558.000|
 |Mitsubishi     |       97431.429|
-|Nissan         |       67762.182|
-|Opel           |       85687.820|
-|Peugeot        |       79059.245|
+|Nissan         |       68225.385|
+|Opel           |       85856.020|
+|Peugeot        |       78952.989|
 |Polestar       |        5000.000|
-|Porsche        |       76758.214|
+|Porsche        |       74238.276|
 |RAM            |       52189.600|
-|Renault        |       94851.854|
-|Seat           |       64471.455|
-|Skoda          |      115886.745|
-|Smart          |       33031.429|
-|SsangYong      |       50393.981|
-|Subaru         |       72888.222|
-|Suzuki         |       95752.439|
-|Tesla          |       31993.034|
-|Toyota         |       34438.489|
-|Volkswagen     |       59836.275|
-|Volvo          |       55223.206|
+|Renault        |       94664.874|
+|Seat           |       64898.178|
+|Skoda          |      116102.997|
+|Smart          |       34162.667|
+|SsangYong      |       50342.667|
+|Subaru         |       72613.151|
+|Suzuki         |       96333.735|
+|Tesla          |       32374.788|
+|Toyota         |       33821.652|
+|Volkswagen     |       59886.643|
+|Volvo          |       55313.659|
 |NA             |             NaN|
 
 
 |brand          |   Avg. Age|
 |:--------------|----------:|
 |Abarth         |  1.2173913|
-|Alfa Romeo     |  3.5050505|
-|Audi           |  1.8220109|
+|Alfa Romeo     |  3.5247525|
+|Audi           |  1.8185457|
 |BAIC Motor     |  2.0000000|
-|BMW            |  2.4703247|
+|BMW            |  2.4644829|
 |Borgward       |  1.0000000|
 |Cadillac       |  0.1487603|
-|Chevrolet      | 11.8405797|
+|Chevrolet      | 11.8461538|
 |Chrysler       |  7.0000000|
-|Citroen        |  5.7884615|
-|Cupra          |  1.5049505|
-|Dacia          |  9.8121212|
+|Citroen        |  5.8095238|
+|Cupra          |  1.4901961|
+|Dacia          |  9.7485030|
 |Daihatsu       | 11.0000000|
-|DFSK           |  0.0301205|
-|Dodge          |  2.4479167|
-|DS Automobiles |  0.9797297|
-|Fiat           |  6.3500000|
-|Ford           |  7.3461538|
+|DFSK           |  0.0299401|
+|Dodge          |  2.4504362|
+|DS Automobiles |  0.9800000|
+|Fiat           |  6.3580247|
+|Ford           |  7.3474178|
 |GMC            |  5.6666667|
 |Honda          |  8.8888889|
-|Hyundai        |  8.4350282|
+|Hyundai        |  8.4157303|
 |Infiniti       |  4.0000000|
 |Isuzu          |  0.0000000|
-|Jaguar         |  2.7672414|
-|Jeep           |  1.6408451|
-|Kia            |  5.4761905|
+|Jaguar         |  2.7692308|
+|Jeep           |  1.6137931|
+|Kia            |  5.4612069|
 |Lada           |  5.0000000|
 |Lancia         | 13.0000000|
-|Land Rover     |  3.4696133|
+|Land Rover     |  3.4590164|
 |Lexus          |  1.5500000|
 |Maserati       |  3.7500000|
-|Mazda          |  3.7446809|
-|Mercedes-Benz  |  3.4089530|
+|Mazda          |  3.6875000|
+|Mercedes-Benz  |  3.3772321|
 |MG             |  0.0000000|
-|MINI           |  3.7592593|
+|MINI           |  3.7321429|
 |Mitsubishi     |  7.3095238|
-|Nissan         |  6.1464646|
-|Opel           |  5.6198347|
-|Peugeot        |  5.0000000|
+|Nissan         |  6.1800000|
+|Opel           |  5.6270492|
+|Peugeot        |  4.9911817|
 |Polestar       |  0.0000000|
-|Porsche        |  6.0714286|
+|Porsche        |  5.8620690|
 |RAM            |  4.0000000|
-|Renault        |  4.2199074|
-|Seat           |  4.6208531|
-|Skoda          |  7.6686930|
-|Smart          |  7.1428571|
-|SsangYong      |  2.7961165|
-|Subaru         |  4.4583333|
-|Suzuki         |  5.9268293|
-|Tesla          |  1.4662921|
-|Toyota         |  2.7262774|
-|Volkswagen     |  3.8076923|
-|Volvo          |  2.9003215|
+|Renault        |  4.2087156|
+|Seat           |  4.6666667|
+|Skoda          |  7.6407186|
+|Smart          |  7.2000000|
+|SsangYong      |  2.7904762|
+|Subaru         |  4.4383562|
+|Suzuki         |  5.9397590|
+|Tesla          |  1.4891304|
+|Toyota         |  2.6774194|
+|Volkswagen     |  3.8000000|
+|Volvo          |  2.8883648|
 |NA             |        NaN|
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
